@@ -1,0 +1,13 @@
+export type User = { id: string; name: string; email: string; createdAt: string }
+export type Analysis = { score: number; correctness: string; issues: string[]; timeComplexity: string; timeExplanation: string; spaceComplexity: string; spaceExplanation: string; codeQuality: string; optimizationSuggestions: string[]; betterApproach: string; testCases: { name: string; input: string; expected: string; purpose: string }[]; analysisSource: string; disclaimer: string }
+export type Submission = { id: string; problemTitle: string; language: string; category: string; score: number; timeComplexity: string; spaceComplexity: string; createdAt: string; analysis?: Analysis }
+export type TopicProgress = { topic: string; total: number; solved: number; attempted: number; completionPercent: number; successRate: number }
+export type Progress = { solved: number; attempted: number; remaining: number; submissions: number; currentStreak: number; longestStreak: number; strongestTopic: string; weakestTopic: string; weeklyActivity: number; monthlyActivity: number; difficultyDistribution: { difficulty: string; count: number }[]; topics: TopicProgress[]; activity: { date: string; count: number }[] }
+export type Problem = { id: string; title: string; topic: string; difficulty: 'EASY'|'MEDIUM'|'HARD'; platform?: string; url?: string; status: 'NOT_STARTED'|'ATTEMPTED'|'SOLVED'|'NEED_REVISION'; notes?: string; lastAttemptedAt?: string }
+export type QuestionStatus = 'TODO'|'ATTEMPTED'|'SOLVED'
+export type QuestionDifficulty = 'BEGINNER'|'INTERMEDIATE'|'ADVANCED'
+export type QuestionSummary = { id:string; slug:string; title:string; difficulty:QuestionDifficulty; topics:string[]; sourceName:string; sourceUrl:string; status:QuestionStatus; bookmarked:boolean }
+export type QuestionDetail = {id:string;slug:string;title:string;difficulty:QuestionDifficulty;topics:string[];sourceName:string;sourceUrl:string;description:string;examples:{input:string;output:string;explanation:string}[];constraints:string[];progress:{status:QuestionStatus;bookmarked:boolean;hintsRevealed:number};revealedHints:string[];hintCount:number}
+export type QuestionPage = {items:QuestionSummary[];page:number;size:number;totalItems:number;totalPages:number;hasNext:boolean;hasPrevious:boolean}
+export type QuestionProgressSummary = {total:number;todo:number;attempted:number;solved:number;bookmarked:number}
+export type QuestionAttempt = {id:string;outcome:string;attemptedAt:string;submissionId?:string;score?:number;language?:string}

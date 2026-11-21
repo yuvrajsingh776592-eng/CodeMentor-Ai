@@ -1,0 +1,8 @@
+[project]
+name = "codementor-ai-service"
+version = "0.1.0"
+description = "Static code analysis and optional LLM explanations for CodeMentor AI"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

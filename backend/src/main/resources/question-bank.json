@@ -1,0 +1,760 @@
+[
+  {
+    "id": "LC-1",
+    "slug": "two-sum",
+    "title": "Two Sum",
+    "difficulty": "BEGINNER",
+    "topics": [
+      "Arrays and Strings",
+      "Hashing"
+    ],
+    "description": "Given an integer array and a target, return the indices of two distinct values whose sum equals the target. Exactly one pair exists.",
+    "examples": [
+      {
+        "input": "[2,7,11,15], target=9",
+        "output": "[0,1]",
+        "explanation": ""
+      },
+      {
+        "input": "[3,2,4], target=6",
+        "output": "[1,2]",
+        "explanation": ""
+      }
+    ],
+    "constraints": [
+      "2 <= nums.length <= 10^4",
+      "-10^9 <= nums[i] <= 10^9",
+      "-10^9 <= target <= 10^9",
+      "Exactly one valid pair exists; an element cannot be reused."
+    ],
+    "sourceName": "LeetCode #1",
+    "sourceUrl": "https://leetcode.com/problems/two-sum/",
+    "hints": [
+      "Check whether target-current has appeared before.",
+      "Use a map from value to index while scanning once."
+    ],
+    "approach": "Use a map from value to index while scanning once.",
+    "timeComplexity": "O(n)",
+    "spaceComplexity": "O(n)",
+    "solutionExplanation": "For each value, look up its complement before inserting itself. Return the stored index and current index when found."
+  },
+  {
+    "id": "LC-49",
+    "slug": "group-anagrams",
+    "title": "Group Anagrams",
+    "difficulty": "INTERMEDIATE",
+    "topics": [
+      "Hashing",
+      "Arrays and Strings"
+    ],
+    "description": "Group strings that are anagrams of one another. Groups may be returned in any order.",
+    "examples": [
+      {
+        "input": "[eat,tea,tan,ate,nat,bat]",
+        "output": "[[eat,tea,ate],[tan,nat],[bat]]",
+        "explanation": ""
+      },
+      {
+        "input": "[\"\"]",
+        "output": "[[\"\"]]",
+        "explanation": ""
+      }
+    ],
+    "constraints": [
+      "1 <= number of strings <= 10^4",
+      "each string length <= 100",
+      "lowercase English letters."
+    ],
+    "sourceName": "LeetCode #49",
+    "sourceUrl": "https://leetcode.com/problems/group-anagrams/",
+    "hints": [
+      "Anagrams share a canonical representation.",
+      "Map each word's sorted characters to the words with that key."
+    ],
+    "approach": "Map each word's sorted characters to the words with that key.",
+    "timeComplexity": "O(n k log k)",
+    "spaceComplexity": "O(n k)",
+    "solutionExplanation": "Sort each word's characters to form a key and append the original word to that key's bucket."
+  },
+  {
+    "id": "LC-3",
+    "slug": "longest-substring-without-repeating-characters",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "INTERMEDIATE",
+    "topics": [
+      "Two Pointers and Sliding Window",
+      "Hashing"
+    ],
+    "description": "Return the length of the longest contiguous substring with no repeated characters.",
+    "examples": [
+      {
+        "input": "abcabcbb",
+        "output": "3",
+        "explanation": ""
+      },
+      {
+        "input": "pwwkew",
+        "output": "3",
+        "explanation": ""
+      }
+    ],
+    "constraints": [
+      "0 <= string length <= 10^5",
+      "input may contain letters, digits, symbols and spaces."
+    ],
+    "sourceName": "LeetCode #3",
+    "sourceUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "hints": [
+      "Keep a window that has no duplicate characters.",
+      "Use a sliding window and last-seen index for each character."
+    ],
+    "approach": "Use a sliding window and last-seen index for each character.",
+    "timeComplexity": "O(n)",
+    "spaceComplexity": "O(min(n, alphabet))",
+    "solutionExplanation": "Move the left boundary past a repeated character only when its previous index is inside the current window."
+  },
+  {
+    "id": "LC-704",
+    "slug": "binary-search",
+    "title": "Binary Search",
+    "difficulty": "BEGINNER",
+    "topics": [
+      "Binary Search"
+    ],
+    "description": "In a sorted array of distinct integers, return the target index or -1 when it is absent.",
+    "examples": [
+      {
+        "input": "[-1,0,3,5,9,12], target=9",
+        "output": "4",
+        "explanation": ""
+      },
+      {
+        "input": "target=2",
+        "output": "-1",
+        "explanation": ""
+      }
+    ],
+    "constraints": [
+      "1 <= nums.length <= 10^4",
+      "-10^4 < nums[i], target < 10^4",
+      "All values are distinct and nums is sorted ascending."
+    ],
+    "sourceName": "LeetCode #704",
+    "sourceUrl": "https://leetcode.com/problems/binary-search/",
+    "hints": [
+      "Compare the midpoint and discard the half that cannot contain the target.",
+      "Maintain a closed interval and shrink it around each midpoint comparison."
+    ],
+    "approach": "Maintain a closed interval and shrink it around each midpoint comparison.",
+    "timeComplexity": "O(log n)",
+    "spaceComplexity": "O(1)",
+    "solutionExplanation": "While low <= high, compare the middle value. Return on equality; otherwise move the matching bound inward. Return -1 when empty."
+  },
+  {
+    "id": "LC-56",
+    "slug": "merge-intervals",
+    "title": "Merge Intervals",
+    "difficulty": "INTERMEDIATE",
+    "topics": [
+      "Sorting",
+      "Arrays and Strings"
+    ],
+    "description": "Merge all overlapping intervals and return the resulting non-overlapping intervals.",
+    "examples": [
+      {
+        "input": "[[1,3],[2,6],[8,10],[15,18]]",
+        "output": "[[1,6],[8,10],[15,18]]",
+        "explanation": ""
+      },
+      {
+        "input": "[[1,4],[4,5]]",
+        "output": "[[1,5]]",
+        "explanation": ""
+      }
+    ],
+    "constraints": [
+      "1 <= intervals.length <= 10^4",
+      "Each interval is a pair [start, end].",
+      "0 <= start <= end <= 10^4."
+    ],
+    "sourceName": "LeetCode #56",
+    "sourceUrl": "https://leetcode.com/problems/merge-intervals/",
+    "hints": [
+      "Sort by start coordinate first.",
+      "Append disjoint ranges; otherwise extend the end of the last output interval."
+    ],
+    "approach": "Append disjoint ranges; otherwise extend the end of the last output interval.",
+    "timeComplexity": "O(n log n)",
+    "spaceComplexity": "O(n) for output",
+    "solutionExplanation": "Sort by start. If the next start is at most the last output end, merge by taking the greater end; otherwise append."
+  },
+  {
+    "id": "LC-78",
+    "slug": "subsets",
+    "title": "Subsets",
+    "difficulty": "INTERMEDIATE",
+    "topics": [
+      "Recursion and Backtracking"
+    ],
+    "description": "Return every subset of a set of distinct integers, including the empty subset.",
+    "examples": [
+      {
+        "input": "[1,2]",
+        "output": "[[],[1],[2],[1,2]]",
+        "explanation": ""
+      },
+      {
+        "input": "[0]",
+        "output": "[[],[0]]",
+        "explanation": ""
+      }
+    ],
+    "constraints": [
+      "1 <= nums.length <= 10",
+      "-10 <= nums[i] <= 10",
+      "All values are distinct."
+    ],
+    "sourceName": "LeetCode #78",
+    "sourceUrl": "https://leetcode.com/problems/subsets/",
+    "hints": [
+      "At each value, choose whether it belongs in the current subset.",
+      "Backtrack through include/exclude choices and copy each completed subset."
+    ],
+    "approach": "Backtrack through include/exclude choices and copy each completed subset.",
+    "timeComplexity": "O(n 2^n)",
+    "spaceComplexity": "O(n) auxiliary, excluding output",
+    "solutionExplanation": "Recurse over indices, recording the current subset at each node. Add one candidate before recursion and remove it when returning."
+  },
+  {
+    "id": "LC-206",
+    "slug": "reverse-linked-list",
+    "title": "Reverse Linked List",
+    "difficulty": "BEGINNER",
+    "topics": [
+      "Linked Lists"
+    ],
+    "description": "Reverse a singly linked list and return the new head.",
+    "examples": [
+      {
+        "input": "[1,2,3,4,5]",
+        "output": "[5,4,3,2,1]",
+        "explanation": ""
+      },
+      {
+        "input": "[1,2]",
+        "output": "[2,1]",
+        "explanation": ""
+      }
+    ],
+    "constraints": [
+      "0 <= number of nodes <= 5000",
+      "node values are in -5000..5000."
+    ],
+    "sourceName": "LeetCode #206",
+    "sourceUrl": "https://leetcode.com/problems/reverse-linked-list/",
+    "hints": [
+      "Save the next node before redirecting a link.",
+      "Iterate using previous, current, and next pointers."
+    ],
+    "approach": "Iterate using previous, current, and next pointers.",
+    "timeComplexity": "O(n)",
+    "spaceComplexity": "O(1)",
+    "solutionExplanation": "Set current.next to previous, advance previous and current, and return previous after the scan."
+  },
+  {
+    "id": "LC-20",
+    "slug": "valid-parentheses",
+    "title": "Valid Parentheses",
+    "difficulty": "BEGINNER",
+    "topics": [
+      "Stacks and Queues"
+    ],
+    "description": "Determine whether every opening bracket in a string is closed by the matching type in the correct order.",
+    "examples": [
+      {
+        "input": "()[]{}",
+        "output": "true",
+        "explanation": ""
+      },
+      {
+        "input": "(]",
+        "output": "false",
+        "explanation": ""
+      }
+    ],
+    "constraints": [
+      "1 <= string length <= 10^4",
+      "only (), [], and {} appear."
+    ],
+    "sourceName": "LeetCode #20",
+    "sourceUrl": "https://leetcode.com/problems/valid-parentheses/",
+    "hints": [
+      "The latest unmatched opener must be closed first.",
+      "Push openers; each closer must match and remove the stack top."
+    ],
+    "approach": "Push openers; each closer must match and remove the stack top.",
+    "timeComplexity": "O(n)",
+    "spaceComplexity": "O(n)",
+    "solutionExplanation": "Scan the string, pushing opening brackets. Reject a mismatched or unmatched closer; finish successfully only with an empty stack."
+  },
+  {
+    "id": "LC-98",
+    "slug": "validate-binary-search-tree",
+    "title": "Validate Binary Search Tree",
+    "difficulty": "INTERMEDIATE",
+    "topics": [
+      "Trees and Binary Search Trees"
+    ],
+    "description": "Determine whether every node of a binary tree obeys strict BST ordering, including restrictions imposed by ancestors.",
+    "examples": [
+      {
+        "input": "[2,1,3]",
+        "output": "true",
+        "explanation": ""
+      },
+      {
+        "input": "[5,1,4,null,null,3,6]",
+        "output": "false",
+        "explanation": ""
+      }
+    ],
+    "constraints": [
+      "1 <= nodes <= 10^4",
+      "node values are signed 32-bit integers."
+    ],
+    "sourceName": "LeetCode #98",
+    "sourceUrl": "https://leetcode.com/problems/validate-binary-search-tree/",
+    "hints": [
+      "A node must satisfy bounds from every ancestor, not just its parent.",
+      "Pass exclusive lower and upper bounds down recursive calls."
+    ],
+    "approach": "Pass exclusive lower and upper bounds down recursive calls.",
+    "timeComplexity": "O(n)",
+    "spaceComplexity": "O(h)",
+    "solutionExplanation": "Validate each node inside an inherited value interval; the left child gets a smaller upper bound and the right child a larger lower bound."
+  },
+  {
+    "id": "LC-215",
+    "slug": "kth-largest-element-in-an-array",
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "INTERMEDIATE",
+    "topics": [
+      "Heaps and Priority Queues",
+      "Sorting"
+    ],
+    "description": "Return the k-th largest array value; repeated values count as separate ranks.",
+    "examples": [
+      {
+        "input": "[3,2,1,5,6,4], k=2",
+        "output": "5",
+        "explanation": ""
+      },
+      {
+        "input": "[3,2,3,1,2,4,5,5,6], k=4",
+        "output": "4",
+        "explanation": ""
+      }
+    ],
+    "constraints": [
+      "1 <= k <= nums.length <= 10^5",
+      "-10^4 <= nums[i] <= 10^4."
+    ],
+    "sourceName": "LeetCode #215",
+    "sourceUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+    "hints": [
+      "A min-heap of size k keeps only the k largest values seen.",
+      "Maintain the largest k values and read the smallest among them."
+    ],
+    "approach": "Maintain the largest k values and read the smallest among them.",
+    "timeComplexity": "O(n log k)",
+    "spaceComplexity": "O(k)",
+    "solutionExplanation": "Push values into a min-heap and remove its minimum whenever size exceeds k. The remaining root is the requested rank."
+  },
+  {
+    "id": "LC-200",
+    "slug": "number-of-islands",
+    "title": "Number of Islands",
+    "difficulty": "INTERMEDIATE",
+    "topics": [
+      "Graphs"
+    ],
+    "description": "Count groups of land cells connected horizontally or vertically in a grid.",
+    "examples": [
+      {
+        "input": "[[1,1,0],[0,1,0],[1,0,1]]",
+        "output": "3",
+        "explanation": ""
+      },
+      {
+        "input": "[[0,0],[0,0]]",
+        "output": "0",
+        "explanation": ""
+      }
+    ],
+    "constraints": [
+      "m == grid.length; n == grid[i].length",
+      "1 <= m, n <= 300",
+      "Each grid cell is the character '0' or '1'; land connects horizontally and vertically."
+    ],
+    "sourceName": "LeetCode #200",
+    "sourceUrl": "https://leetcode.com/problems/number-of-islands/",
+    "hints": [
+      "Each unvisited land cell starts one component.",
+      "Count it, then flood-fill all connected land so it is not counted again."
+    ],
+    "approach": "Count it, then flood-fill all connected land so it is not counted again.",
+    "timeComplexity": "O(rows * columns)",
+    "spaceComplexity": "O(rows * columns) worst case",
+    "solutionExplanation": "Scan all cells. When land is found, increment the count and run DFS or BFS to mark its four-directionally connected component."
+  },
+  {
+    "id": "LC-55",
+    "slug": "jump-game",
+    "title": "Jump Game",
+    "difficulty": "INTERMEDIATE",
+    "topics": [
+      "Greedy Algorithms"
+    ],
+    "description": "Each value is the maximum forward jump from that index. Decide whether the final index is reachable.",
+    "examples": [
+      {
+        "input": "[2,3,1,1,4]",
+        "output": "true",
+        "explanation": ""
+      },
+      {
+        "input": "[3,2,1,0,4]",
+        "output": "false",
+        "explanation": ""
+      }
+    ],
+    "constraints": [
+      "1 <= n <= 10^4",
+      "0 <= nums[i] <= 10^5."
+    ],
+    "sourceName": "LeetCode #55",
+    "sourceUrl": "https://leetcode.com/problems/jump-game/",
+    "hints": [
+      "Track the farthest reachable index so far.",
+      "A scan beyond that frontier is unreachable."
+    ],
+    "approach": "A scan beyond that frontier is unreachable.",
+    "timeComplexity": "O(n)",
+    "spaceComplexity": "O(1)",
+    "solutionExplanation": "Update the farthest boundary at each reachable index. Return false if the current index passes it; return true once it reaches the final index."
+  },
+  {
+    "id": "LC-322",
+    "slug": "coin-change",
+    "title": "Coin Change",
+    "difficulty": "INTERMEDIATE",
+    "topics": [
+      "Dynamic Programming"
+    ],
+    "description": "Given coin values available without limit, return the fewest coins needed to make an amount, or -1 if impossible.",
+    "examples": [
+      {
+        "input": "[1,2,5], amount=11",
+        "output": "3",
+        "explanation": ""
+      },
+      {
+        "input": "[2], amount=3",
+        "output": "-1",
+        "explanation": ""
+      }
+    ],
+    "constraints": [
+      "1 <= number of denominations <= 12",
+      "amount <= 10^4",
+      "coin values are positive."
+    ],
+    "sourceName": "LeetCode #322",
+    "sourceUrl": "https://leetcode.com/problems/coin-change/",
+    "hints": [
+      "Define the best answer for every amount from zero up to the target.",
+      "For each state, try every coin that fits and extend the smaller solved state."
+    ],
+    "approach": "For each state, try every coin that fits and extend the smaller solved state.",
+    "timeComplexity": "O(amount * number of coins)",
+    "spaceComplexity": "O(amount)",
+    "solutionExplanation": "Set dp[0]=0 and other states unreachable. For each amount x, minimize dp[x] using dp[x-coin]+1 when reachable."
+  },
+  {
+    "id": "LC-208",
+    "slug": "implement-trie-prefix-tree",
+    "title": "Implement Trie (Prefix Tree)",
+    "difficulty": "INTERMEDIATE",
+    "topics": [
+      "Tries"
+    ],
+    "description": "Implement insertion of lowercase words, exact-word search, and prefix search.",
+    "examples": [
+      {
+        "input": "insert(apple), search(apple)",
+        "output": "true",
+        "explanation": ""
+      },
+      {
+        "input": "search(app)",
+        "output": "false until app is inserted",
+        "explanation": ""
+      },
+      {
+        "input": "startsWith(app)",
+        "output": "true",
+        "explanation": ""
+      }
+    ],
+    "constraints": [
+      "Word length <= 2000",
+      "lowercase English letters",
+      "up to 3 * 10^4 operations."
+    ],
+    "sourceName": "LeetCode #208",
+    "sourceUrl": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+    "hints": [
+      "Represent each prefix as a trie node and mark complete words.",
+      "Walk character edges; exact search also checks the terminal marker."
+    ],
+    "approach": "Walk character edges; exact search also checks the terminal marker.",
+    "timeComplexity": "O(L) per operation",
+    "spaceComplexity": "O(total inserted characters)",
+    "solutionExplanation": "Create missing child nodes while inserting and mark the final node. Search traverses the same edges and checks the marker only for exact matches."
+  },
+  {
+    "id": "LC-136",
+    "slug": "single-number",
+    "title": "Single Number",
+    "difficulty": "BEGINNER",
+    "topics": [
+      "Bit Manipulation"
+    ],
+    "description": "Every value appears twice except one. Return the single value in linear time and constant extra space.",
+    "examples": [
+      {
+        "input": "[2,2,1]",
+        "output": "1",
+        "explanation": ""
+      },
+      {
+        "input": "[4,1,2,1,2]",
+        "output": "4",
+        "explanation": ""
+      }
+    ],
+    "constraints": [
+      "1 <= nums.length <= 3 * 10^4",
+      "-3 * 10^4 <= nums[i] <= 3 * 10^4",
+      "Exactly one value occurs once; every other value occurs twice."
+    ],
+    "sourceName": "LeetCode #136",
+    "sourceUrl": "https://leetcode.com/problems/single-number/",
+    "hints": [
+      "Look for an operation that cancels pairs of equal bits.",
+      "XOR every value; equal pairs cancel."
+    ],
+    "approach": "XOR every value; equal pairs cancel.",
+    "timeComplexity": "O(n)",
+    "spaceComplexity": "O(1)",
+    "solutionExplanation": "XOR all elements. Associativity and x XOR x = 0 leave only the unpaired number."
+  },
+  {
+    "id": "LC-202",
+    "slug": "happy-number",
+    "title": "Happy Number",
+    "difficulty": "BEGINNER",
+    "topics": [
+      "Maths and Number Theory"
+    ],
+    "description": "Repeatedly replace a positive integer with the sum of the squares of its decimal digits. Return true if the sequence reaches 1, false if it cycles.",
+    "examples": [
+      {
+        "input": "19",
+        "output": "true",
+        "explanation": ""
+      },
+      {
+        "input": "2",
+        "output": "false",
+        "explanation": ""
+      }
+    ],
+    "constraints": [
+      "1 <= n <= 2^31 - 1."
+    ],
+    "sourceName": "LeetCode #202",
+    "sourceUrl": "https://leetcode.com/problems/happy-number/",
+    "hints": [
+      "The process either reaches 1 or repeats a previous value.",
+      "Detect a repeated state with a set or cycle detection."
+    ],
+    "approach": "Detect a repeated state with a set or cycle detection.",
+    "timeComplexity": "O(log n) per transform",
+    "spaceComplexity": "O(1) with cycle detection",
+    "solutionExplanation": "Apply the digit-square transform until reaching 1 or detecting a cycle. Floyd's cycle detection avoids storing all previous values."
+  },
+  {
+    "id": "LC-338",
+    "slug": "counting-bits",
+    "title": "Counting Bits",
+    "difficulty": "INTERMEDIATE",
+    "topics": [
+      "Bit Manipulation",
+      "Dynamic Programming"
+    ],
+    "description": "For every integer from 0 through n, return its number of set bits.",
+    "examples": [
+      {
+        "input": "n=2",
+        "output": "[0,1,1]",
+        "explanation": ""
+      },
+      {
+        "input": "n=5",
+        "output": "[0,1,1,2,1,2]",
+        "explanation": ""
+      }
+    ],
+    "constraints": [
+      "0 <= n <= 10^5."
+    ],
+    "sourceName": "LeetCode #338",
+    "sourceUrl": "https://leetcode.com/problems/counting-bits/",
+    "hints": [
+      "Relate a value's bit count to a smaller value formed by shifting right.",
+      "dp[i] = dp[i >> 1] + (i & 1)."
+    ],
+    "approach": "dp[i] = dp[i >> 1] + (i & 1).",
+    "timeComplexity": "O(n)",
+    "spaceComplexity": "O(n) for output",
+    "solutionExplanation": "Start with dp[0]=0. For each i, reuse the count of i divided by two and add the least significant bit."
+  },
+  {
+    "id": "LC-4",
+    "slug": "median-of-two-sorted-arrays",
+    "title": "Median of Two Sorted Arrays",
+    "description": "Given two individually sorted integer arrays, return the median of the combined multiset. Your algorithm must run in logarithmic time relative to the combined input size.",
+    "examples": [
+      {
+        "input": "nums1 = [1, 3], nums2 = [2]",
+        "output": "2.0",
+        "explanation": "The merged order is [1, 2, 3]."
+      },
+      {
+        "input": "nums1 = [1, 2], nums2 = [3, 4]",
+        "output": "2.5",
+        "explanation": "The two middle values are 2 and 3."
+      }
+    ],
+    "constraints": [
+      "0 <= nums1.length, nums2.length <= 1000",
+      "1 <= nums1.length + nums2.length <= 2000",
+      "-10^6 <= nums1[i], nums2[i] <= 10^6",
+      "Both arrays are sorted in non-decreasing order."
+    ],
+    "difficulty": "ADVANCED",
+    "topics": [
+      "Binary Search",
+      "Arrays and Strings"
+    ],
+    "sourceName": "LeetCode #4",
+    "sourceUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+    "hints": [
+      "Think about choosing a cut in each array rather than merging them.",
+      "A valid partition puts every left-side value before every right-side value.",
+      "Binary-search the cut in the shorter array and compare the two boundary pairs."
+    ],
+    "approach": "Binary-search a partition in the shorter array. Derive the other partition so the left side contains half the total values, then adjust until both partition boundaries are ordered. Compute the median from the boundary values.",
+    "timeComplexity": "O(log(min(m, n)))",
+    "spaceComplexity": "O(1)",
+    "solutionExplanation": "Always binary-search the shorter array. For cut i in nums1, choose j so i+j is half the total length. Compare nums1[i-1] with nums2[j] and nums2[j-1] with nums1[i]. If both cross-boundary comparisons are ordered, the partition is valid. Otherwise move i left or right. The median is the maximum left boundary for odd total length, or the average of the maximum left and minimum right boundaries for even length."
+  },
+  {
+    "id": "LC-10",
+    "slug": "regular-expression-matching",
+    "title": "Regular Expression Matching",
+    "description": "Implement full-string matching between a lowercase string and a pattern containing `.` and `*`. A dot matches any one character; a star means zero or more repetitions of the immediately preceding pattern element. Partial matches do not count.",
+    "examples": [
+      {
+        "input": "s = \"aa\", p = \"a\"",
+        "output": "false",
+        "explanation": "The pattern does not cover the second character."
+      },
+      {
+        "input": "s = \"aa\", p = \"a*\"",
+        "output": "true",
+        "explanation": "The preceding a can be repeated twice."
+      },
+      {
+        "input": "s = \"ab\", p = \".*\"",
+        "output": "true",
+        "explanation": "The dot can match each character and the star can repeat it."
+      }
+    ],
+    "constraints": [
+      "1 <= s.length, p.length <= 20",
+      "s contains lowercase English letters.",
+      "p contains lowercase English letters, `.` and `*`.",
+      "Every `*` follows a valid pattern element."
+    ],
+    "difficulty": "ADVANCED",
+    "topics": [
+      "Dynamic Programming",
+      "Recursion and Backtracking"
+    ],
+    "sourceName": "LeetCode #10",
+    "sourceUrl": "https://leetcode.com/problems/regular-expression-matching/",
+    "hints": [
+      "Define a state for whether a prefix of s matches a prefix of p.",
+      "When the next pattern symbol is `*`, consider zero copies separately from one-or-more copies.",
+      "For one-or-more copies, the current string character must match the preceding pattern element."
+    ],
+    "approach": "Use dynamic programming over string and pattern prefixes. Handle an ordinary element or dot with a diagonal transition. For star, either skip the preceding element and star, or consume one matching string character while remaining at the same pattern prefix.",
+    "timeComplexity": "O(mn)",
+    "spaceComplexity": "O(mn)",
+    "solutionExplanation": "Let dp[i][j] mean s[0..i) matches p[0..j). Initialize dp[0][0] and empty-string matches for x* pairs. If p[j-1] is an ordinary matching character or dot, use dp[i-1][j-1]. If it is star, first try zero repetitions via dp[i][j-2]; if the preceding element matches s[i-1], also try dp[i-1][j]. The answer is dp[m][n]."
+  },
+  {
+    "id": "LC-212",
+    "slug": "word-search-ii",
+    "title": "Word Search II",
+    "description": "Given a grid of lowercase letters and a list of unique words, return the words that can be formed by a path of horizontally or vertically adjacent cells. A cell may be used at most once in a single word.",
+    "examples": [
+      {
+        "input": "board = [[\"o\",\"a\",\"a\",\"n\"],[\"e\",\"t\",\"a\",\"e\"],[\"i\",\"h\",\"k\",\"r\"],[\"i\",\"f\",\"l\",\"v\"]], words = [\"oath\",\"pea\",\"eat\",\"rain\"]",
+        "output": "[\"eat\",\"oath\"]",
+        "explanation": "Those two words can be traced through adjacent cells."
+      },
+      {
+        "input": "board = [[\"a\",\"b\"],[\"c\",\"d\"]], words = [\"abcb\"]",
+        "output": "[]",
+        "explanation": "The path would need to reuse a cell."
+      }
+    ],
+    "constraints": [
+      "1 <= rows, columns <= 12",
+      "Each board cell is a lowercase English letter.",
+      "1 <= words.length <= 3 * 10^4",
+      "1 <= words[i].length <= 10",
+      "All words are unique."
+    ],
+    "difficulty": "ADVANCED",
+    "topics": [
+      "Tries",
+      "Graphs",
+      "Recursion and Backtracking"
+    ],
+    "sourceName": "LeetCode #212",
+    "sourceUrl": "https://leetcode.com/problems/word-search-ii/",
+    "hints": [
+      "Searching separately for every word repeats many prefix checks.",
+      "Store all word prefixes in a trie and traverse the grid and trie together.",
+      "Stop exploring as soon as the trie has no matching child; mark the current cell during DFS and restore it afterward."
+    ],
+    "approach": "Insert all words into a trie, then start depth-first search from each board cell. Advance only along trie edges, temporarily mark visited cells, and collect a word when a terminal trie node is reached. Prune exhausted trie branches when useful.",
+    "timeComplexity": "O(R * C * 4 * 3^(L-1)) upper bound",
+    "spaceComplexity": "O(total characters in words + L)",
+    "solutionExplanation": "Build a trie whose terminal nodes hold the associated word. Launch DFS at every cell. Each step checks the current character against a trie edge, records a terminal word once, and recurses into up to four neighbors while preventing cell reuse. Restore the board state on return. Trie-prefix pruning avoids searching paths that cannot form any requested word."
+  }
+]

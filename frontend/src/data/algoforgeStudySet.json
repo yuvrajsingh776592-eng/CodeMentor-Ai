@@ -1,0 +1,6634 @@
+[
+  {
+    "id": "algoforge-7",
+    "sheetRow": 7,
+    "section": "Programming Basics",
+    "title": "Data types (Primitive and non-primitve)",
+    "links": [
+      "https://www.w3schools.com/java/java_data_types.asp"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-8",
+    "sheetRow": 8,
+    "section": "Programming Basics",
+    "title": "How to take input output",
+    "links": [
+      "https://www.w3schools.com/java/java_user_input.asp"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-9",
+    "sheetRow": 9,
+    "section": "Programming Basics",
+    "title": "Find average of 3 numbers",
+    "links": [
+      "https://beginnersbook.com/2020/01/java-program-to-find-average-of-3-numbers/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-12",
+    "sheetRow": 12,
+    "section": "Conditionals",
+    "title": "Conditionals, if-else statement",
+    "links": [],
+    "resourceLabel": "Java Conditions and If Statements",
+    "searchUrl": "https://www.google.com/search?q=Java+Conditions+and+If+Statements",
+    "note": ""
+  },
+  {
+    "id": "algoforge-13",
+    "sheetRow": 13,
+    "section": "Conditionals",
+    "title": "Check postive or negative number",
+    "links": [],
+    "resourceLabel": "Java: Get a number from the user and print whether it is positive or negative number",
+    "searchUrl": "https://www.google.com/search?q=Java%3A+Get+a+number+from+the+user+and+print+whether+it+is+positive+or+negative+number",
+    "note": ""
+  },
+  {
+    "id": "algoforge-14",
+    "sheetRow": 14,
+    "section": "Conditionals",
+    "title": "Day of week",
+    "links": [
+      "https://www.w3resource.com/java-exercises/conditional-statement/java-conditional-statement-exercise-5.php"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-15",
+    "sheetRow": 15,
+    "section": "Conditionals",
+    "title": "Find if year is leap or not",
+    "links": [],
+    "resourceLabel": "Java Program to Find if a Given Year is a Leap Year - GeeksforGeeks",
+    "searchUrl": "https://www.google.com/search?q=Find+if+year+is+leap+or+not+GeeksforGeeks",
+    "note": ""
+  },
+  {
+    "id": "algoforge-17",
+    "sheetRow": 17,
+    "section": "Conditionals",
+    "title": "Operators",
+    "links": [
+      "https://www.w3schools.com/java/java_operators.asp"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-20",
+    "sheetRow": 20,
+    "section": "Loops",
+    "title": "While loop, for loop, do while loop",
+    "links": [
+      "https://www.geeksforgeeks.org/java/loops-in-java/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-21",
+    "sheetRow": 21,
+    "section": "Loops",
+    "title": "Check if a stream of number is even or odd",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/odd-or-even3618/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-22",
+    "sheetRow": 22,
+    "section": "Loops",
+    "title": "Find factorial of a number",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/factorial5739/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-23",
+    "sheetRow": 23,
+    "section": "Loops",
+    "title": "Check if a number is prime or not in N iterations",
+    "links": [
+      "https://www.geeksforgeeks.org/java/java-prime-number-program/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-24",
+    "sheetRow": 24,
+    "section": "Loops",
+    "title": "Check if a number is prime or not in root(N) iterations",
+    "links": [
+      "https://www.geeksforgeeks.org/java/java-prime-number-program/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-25",
+    "sheetRow": 25,
+    "section": "Loops",
+    "title": "Print all prime numbers less than N",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/print-all-prime-numbers-less-than-or-equal-to-n/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-28",
+    "sheetRow": 28,
+    "section": "Number System",
+    "title": "Print fibonacci series",
+    "links": [
+      "https://www.geeksforgeeks.org/java/java-fibonacci-series/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-29",
+    "sheetRow": 29,
+    "section": "Number System",
+    "title": "Count digits in a number",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/count-digits-1606889545/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-30",
+    "sheetRow": 30,
+    "section": "Number System",
+    "title": "Find sum of digits of a number",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/sum-of-digits1742/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-31",
+    "sheetRow": 31,
+    "section": "Number System",
+    "title": "Reverse a number",
+    "links": [
+      "https://www.geeksforgeeks.org/java/java-reverse-number-program/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-32",
+    "sheetRow": 32,
+    "section": "Number System",
+    "title": "Rotate a number by k",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/rotate-digits-of-a-given-number-by-k/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-33",
+    "sheetRow": 33,
+    "section": "Number System",
+    "title": "Find GCD of two numbers",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-34",
+    "sheetRow": 34,
+    "section": "Number System",
+    "title": "Find LCM of two numbers",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/lcm-of-two-numbers/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-37",
+    "sheetRow": 37,
+    "section": "Patterns",
+    "title": "Print right angle triangle",
+    "links": [
+      "https://www.geeksforgeeks.org/java/java-program-to-print-right-triangle-star-pattern/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-38",
+    "sheetRow": 38,
+    "section": "Patterns",
+    "title": "Downward triangle star pattern",
+    "links": [
+      "https://www.geeksforgeeks.org/java/java-program-to-print-downward-triangle-star-pattern/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-39",
+    "sheetRow": 39,
+    "section": "Patterns",
+    "title": "Left right angle triangle pattern",
+    "links": [
+      "https://www.geeksforgeeks.org/java/java-program-to-print-left-triangle-star-pattern/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-40",
+    "sheetRow": 40,
+    "section": "Patterns",
+    "title": "Diamond star pattern",
+    "links": [
+      "https://www.geeksforgeeks.org/java/java-program-to-print-diamond-shape-star-pattern/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-41",
+    "sheetRow": 41,
+    "section": "Patterns",
+    "title": "Print star diagonals pattern",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/program-print-diagonal-star-patterns/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-42",
+    "sheetRow": 42,
+    "section": "Patterns",
+    "title": "Hollow diamond pattern",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/program-print-hollow-pyramid-diamond-pattern/#:~:text=2-,.%20Hollow%20Diamond,-Note%3A%20For"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-43",
+    "sheetRow": 43,
+    "section": "Patterns",
+    "title": "Number changing pyramid pattern",
+    "links": [
+      "https://www.geeksforgeeks.org/java/java-pattern-programs/#5-numberchanging-pyramid-pattern:~:text=1%202%20%0A1-,5.,-Number%2DChanging%20Pyramid"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-44",
+    "sheetRow": 44,
+    "section": "Patterns",
+    "title": "Fibonacci pyramid pattern",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/program-print-fibonacci-triangle/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-45",
+    "sheetRow": 45,
+    "section": "Patterns",
+    "title": "Diamond number pattern",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/java-program-to-print-numbers-with-diamond-pattern/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-46",
+    "sheetRow": 46,
+    "section": "Patterns",
+    "title": "Butterfly half pattern",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/program-to-print-butterfly-pattern-star-pattern/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-47",
+    "sheetRow": 47,
+    "section": "Patterns",
+    "title": "Hollow hourglass",
+    "links": [
+      "https://www.geeksforgeeks.org/java/java-pattern-programs/#22-hollow-hourglass-pattern:~:text=*%0A%20%20%20%20*%20*%0A%20%20%20*%20%20%20*%0A%20%20*%20%20%20%20%20*%0A%20*%20%20%20%20%20%20%20*%0A*%20%20%20%20%20%20%20%20%20*%0A%20*%20%20%20%20%20%20%20*%0A%20%20*%20%20%20%20%20*%0A%20%20%20*%20%20%20*%0A%20%20%20%20*%20*%0A%20%20%20%20%20*-,22,-.%20Hollow%20Hourglass%20Pattern"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-50",
+    "sheetRow": 50,
+    "section": "Functions and Arrays",
+    "title": "What are functions",
+    "links": [
+      "https://www.youtube.com/watch?v=HG8tV0zCsBQ"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-51",
+    "sheetRow": 51,
+    "section": "Functions and Arrays",
+    "title": "Frequency of a digit",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/find-the-frequency-of-a-digit-in-a-number/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-52",
+    "sheetRow": 52,
+    "section": "Functions and Arrays",
+    "title": "Convert a decimal base to any base (Use integers as inputs)",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/convert-base-decimal-vice-versa/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-53",
+    "sheetRow": 53,
+    "section": "Functions and Arrays",
+    "title": "Convert any base to decimal base (Use integers as inputs)",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/convert-base-decimal-vice-versa/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-54",
+    "sheetRow": 54,
+    "section": "Functions and Arrays",
+    "title": "Calculate NcR",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/ncr1019/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-57",
+    "sheetRow": 57,
+    "section": "Arrays",
+    "title": "Arrays memory allocation in Java",
+    "links": [
+      "https://medium.com/@f2015939p/array-memory-allocation-in-java-49b292122d18"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-58",
+    "sheetRow": 58,
+    "section": "Arrays",
+    "title": "Find number of elements greater than x",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-59",
+    "sheetRow": 59,
+    "section": "Arrays",
+    "title": "Search in a unsorted array",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-60",
+    "sheetRow": 60,
+    "section": "Arrays",
+    "title": "Find the difference between maximum and minimum element of array",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-61",
+    "sheetRow": 61,
+    "section": "Arrays",
+    "title": "Add two arrays",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-two-arrays2408/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-62",
+    "sheetRow": 62,
+    "section": "Arrays",
+    "title": "Subtract two arrays",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-63",
+    "sheetRow": 63,
+    "section": "Arrays",
+    "title": "Reverse an array",
+    "links": [
+      "https://www.geeksforgeeks.org/java/reverse-an-array-in-java/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-64",
+    "sheetRow": 64,
+    "section": "Arrays",
+    "title": "Rotate an array",
+    "links": [
+      "https://leetcode.com/problems/rotate-array/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-65",
+    "sheetRow": 65,
+    "section": "Arrays",
+    "title": "Print all subarrays",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-66",
+    "sheetRow": 66,
+    "section": "Arrays",
+    "title": "Count subarrays having sum K (Use brute force)",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-67",
+    "sheetRow": 67,
+    "section": "Arrays",
+    "title": "Count subarrays having sum divisible by K (Use brute force)",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-68",
+    "sheetRow": 68,
+    "section": "Arrays",
+    "title": "Find max sum subarray (Kadane's algorithm)",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-69",
+    "sheetRow": 69,
+    "section": "Arrays",
+    "title": "Print all subsets of array",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-71",
+    "sheetRow": 71,
+    "section": "Arrays",
+    "title": "Binary search implementation",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/binary-search/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-72",
+    "sheetRow": 72,
+    "section": "Arrays",
+    "title": "Find floor value of a given target",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-73",
+    "sheetRow": 73,
+    "section": "Arrays",
+    "title": "Find ceil value of a given target",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/ceil-in-a-sorted-array/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-74",
+    "sheetRow": 74,
+    "section": "Arrays",
+    "title": "Find first and last position of element",
+    "links": [],
+    "resourceLabel": "Find First and Last Position of Element in Sorted Array - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Find+first+and+last+position+of+element+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-77",
+    "sheetRow": 77,
+    "section": "2D Arrays",
+    "title": "Introduction to 2D arrays",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/introduction-to-matrix-or-grid-data-structure-and-algorithms-tutorial/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-78",
+    "sheetRow": 78,
+    "section": "2D Arrays",
+    "title": "Multiply 2 matrices",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/multiply-2-matrices4144/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-79",
+    "sheetRow": 79,
+    "section": "2D Arrays",
+    "title": "Wave traversal",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/print-matrix-in-wave-form/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-80",
+    "sheetRow": 80,
+    "section": "2D Arrays",
+    "title": "Exit point of matrix",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/exit-point-in-a-matrix0905/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-81",
+    "sheetRow": 81,
+    "section": "2D Arrays",
+    "title": "Spiral matrix",
+    "links": [
+      "https://leetcode.com/problems/spiral-matrix/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-82",
+    "sheetRow": 82,
+    "section": "2D Arrays",
+    "title": "Rotate matrix",
+    "links": [],
+    "resourceLabel": "Rotate Image - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Rotate+matrix+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-83",
+    "sheetRow": 83,
+    "section": "2D Arrays",
+    "title": "Search a 2d matrix",
+    "links": [
+      "https://leetcode.com/problems/search-a-2d-matrix/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-84",
+    "sheetRow": 84,
+    "section": "2D Arrays",
+    "title": "Search a 2d matrix 2",
+    "links": [
+      "https://leetcode.com/problems/search-a-2d-matrix-ii/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-85",
+    "sheetRow": 85,
+    "section": "2D Arrays",
+    "title": "Diagonal traversal of matrix",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-88",
+    "sheetRow": 88,
+    "section": "ArrayList and Strings",
+    "title": "Arraylist Introduction",
+    "links": [
+      "https://www.w3schools.com/java/java_arraylist.asp"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-89",
+    "sheetRow": 89,
+    "section": "ArrayList and Strings",
+    "title": "String interning",
+    "links": [
+      "https://www.geeksforgeeks.org/java/interning-of-string/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-90",
+    "sheetRow": 90,
+    "section": "ArrayList and Strings",
+    "title": "Compress String by omitting consecutive repeating characters",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-91",
+    "sheetRow": 91,
+    "section": "ArrayList and Strings",
+    "title": "Compress string by concatenationg consecutive character count",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-92",
+    "sheetRow": 92,
+    "section": "ArrayList and Strings",
+    "title": "String compression",
+    "links": [
+      "https://leetcode.com/problems/string-compression/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-93",
+    "sheetRow": 93,
+    "section": "ArrayList and Strings",
+    "title": "Toggle casing of characters",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/program-toggle-characters-string/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-96",
+    "sheetRow": 96,
+    "section": "Recursion and Backtracking",
+    "title": "Understanding call stack",
+    "links": [
+      "https://dev.to/theplebdev/java-quickies-the-call-stack-3g4g"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-97",
+    "sheetRow": 97,
+    "section": "Recursion and Backtracking",
+    "title": "Swap two numbers using function",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-98",
+    "sheetRow": 98,
+    "section": "Recursion and Backtracking",
+    "title": "Print decreasing numbers from n to 1",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-99",
+    "sheetRow": 99,
+    "section": "Recursion and Backtracking",
+    "title": "Print increasing numbers from 1 to n",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-100",
+    "sheetRow": 100,
+    "section": "Recursion and Backtracking",
+    "title": "Print decreasing from n to 1, then 1 to n in one recursive function",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-101",
+    "sheetRow": 101,
+    "section": "Recursion and Backtracking",
+    "title": "Finf factorial of a number",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/factorial5739/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-102",
+    "sheetRow": 102,
+    "section": "Recursion and Backtracking",
+    "title": "Find power of a number",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/power-of-numbers-1587115620/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-103",
+    "sheetRow": 103,
+    "section": "Recursion and Backtracking",
+    "title": "Find power logarithmic",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/power-of-numbers-1587115620/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-104",
+    "sheetRow": 104,
+    "section": "Recursion and Backtracking",
+    "title": "Understand pre, in and post area of recursive calls",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-105",
+    "sheetRow": 105,
+    "section": "Recursion and Backtracking",
+    "title": "Tower of hanoi",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-108",
+    "sheetRow": 108,
+    "section": "Recursion on Arrays",
+    "title": "Print array using recursion",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-109",
+    "sheetRow": 109,
+    "section": "Recursion on Arrays",
+    "title": "Print array in reverse",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-110",
+    "sheetRow": 110,
+    "section": "Recursion on Arrays",
+    "title": "Find max element in array using recursion",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-111",
+    "sheetRow": 111,
+    "section": "Recursion on Arrays",
+    "title": "Find first index of a target element",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-112",
+    "sheetRow": 112,
+    "section": "Recursion on Arrays",
+    "title": "Find last index of a target element, initial input in function will be idx = 0",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-113",
+    "sheetRow": 113,
+    "section": "Recursion on Arrays",
+    "title": "Return an array consisting of all indices of target element",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-116",
+    "sheetRow": 116,
+    "section": "Recursion on the Way Down",
+    "title": "Return arraylist of all the subsequence of a string",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/print-all-subsequences-of-a-string-using-arraylist/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-117",
+    "sheetRow": 117,
+    "section": "Recursion on the Way Down",
+    "title": "Get all keypad combinations",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-118",
+    "sheetRow": 118,
+    "section": "Recursion on the Way Down",
+    "title": "Get all stair paths, 1-2-3 steps allowed at a time",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-119",
+    "sheetRow": 119,
+    "section": "Recursion on the Way Down",
+    "title": "Get all maze paths if only right and down step allowed",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-120",
+    "sheetRow": 120,
+    "section": "Recursion on the Way Down",
+    "title": "Get all maze paths if only right and down step with jumps allowed",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-123",
+    "sheetRow": 123,
+    "section": "Recursion on the Way Up",
+    "title": "Print all subsequences of a string",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/print-subsequences-string/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-124",
+    "sheetRow": 124,
+    "section": "Recursion on the Way Up",
+    "title": "Print all keypad combinations",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-125",
+    "sheetRow": 125,
+    "section": "Recursion on the Way Up",
+    "title": "Print all stair paths, 1-2-3 steps allowed at a time",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-126",
+    "sheetRow": 126,
+    "section": "Recursion on the Way Up",
+    "title": "Print all maze paths if only right and down step allowed",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-127",
+    "sheetRow": 127,
+    "section": "Recursion on the Way Up",
+    "title": "Print all maze paths if only right and down step with jumps allowed",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-129",
+    "sheetRow": 129,
+    "section": "Recursion on the Way Up",
+    "title": "Print Encodings of a string",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-130",
+    "sheetRow": 130,
+    "section": "Recursion on the Way Up",
+    "title": "Print permutations of a string",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-131",
+    "sheetRow": 131,
+    "section": "Recursion on the Way Up",
+    "title": "Get Max path sum in a maze",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/path-in-matrix3805/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-132",
+    "sheetRow": 132,
+    "section": "Recursion on the Way Up",
+    "title": "Count friends pairing",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-133",
+    "sheetRow": 133,
+    "section": "Recursion on the Way Up",
+    "title": "Josephus Problem",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/josephus-problem/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-136",
+    "sheetRow": 136,
+    "section": "Backtracking",
+    "title": "Flood fill backtracking",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": "(Go from 0,0 to n-1,m-1), you can travel on 1, not on you and can move in 4 directions"
+  },
+  {
+    "id": "algoforge-137",
+    "sheetRow": 137,
+    "section": "Backtracking",
+    "title": "Coin change permutation (Generate all the possible answers)",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/number-of-coins1824/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": "(this question but one coin can be used one time)"
+  },
+  {
+    "id": "algoforge-138",
+    "sheetRow": 138,
+    "section": "Backtracking",
+    "title": "Coin change permutation mutliple use (Generate all the possible answers)",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/number-of-coins1824/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-139",
+    "sheetRow": 139,
+    "section": "Backtracking",
+    "title": "Coin change combination multiple use (Generate all the possible answers)",
+    "links": [
+      "https://leetcode.com/problems/coin-change-ii/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": "(this question but use one coin one time)"
+  },
+  {
+    "id": "algoforge-141",
+    "sheetRow": 141,
+    "section": "Backtracking",
+    "title": "Target sum subset (Generate all the possible subsets)",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-142",
+    "sheetRow": 142,
+    "section": "Backtracking",
+    "title": "Partition array into 2 equal subsets",
+    "links": [
+      "https://leetcode.com/problems/partition-equal-subset-sum/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-143",
+    "sheetRow": 143,
+    "section": "Backtracking",
+    "title": "N- Queens",
+    "links": [
+      "https://leetcode.com/problems/n-queens/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-144",
+    "sheetRow": 144,
+    "section": "Backtracking",
+    "title": "Check knight tour",
+    "links": [
+      "https://leetcode.com/problems/check-knight-tour-configuration/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-145",
+    "sheetRow": 145,
+    "section": "Backtracking",
+    "title": "Print all the knight tour possible answers",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-146",
+    "sheetRow": 146,
+    "section": "Backtracking",
+    "title": "Check if sudoku is valid",
+    "links": [
+      "https://leetcode.com/problems/valid-sudoku/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-147",
+    "sheetRow": 147,
+    "section": "Backtracking",
+    "title": "Sudoku Solver",
+    "links": [
+      "https://leetcode.com/problems/sudoku-solver/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-148",
+    "sheetRow": 148,
+    "section": "Backtracking",
+    "title": "N-queens optimised with O(N) space",
+    "links": [
+      "https://leetcode.com/problems/n-queens/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-149",
+    "sheetRow": 149,
+    "section": "Backtracking",
+    "title": "N-queens optimised with O(1) extra space",
+    "links": [
+      "https://leetcode.com/problems/n-queens/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-150",
+    "sheetRow": 150,
+    "section": "Backtracking",
+    "title": "Beautiful Arrangement",
+    "links": [
+      "https://leetcode.com/problems/beautiful-arrangement/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-151",
+    "sheetRow": 151,
+    "section": "Backtracking",
+    "title": "Word search",
+    "links": [
+      "https://leetcode.com/problems/word-search/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-152",
+    "sheetRow": 152,
+    "section": "Backtracking",
+    "title": "Verbal Arithmetic Puzzle (should have some hasmap knowledge)",
+    "links": [
+      "https://leetcode.com/problems/verbal-arithmetic-puzzle/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-153",
+    "sheetRow": 153,
+    "section": "Backtracking",
+    "title": "Word break 2",
+    "links": [
+      "https://leetcode.com/problems/word-break-ii/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-154",
+    "sheetRow": 154,
+    "section": "Backtracking",
+    "title": "Word search 2 (skip for now if you don't know TRIE)",
+    "links": [
+      "https://leetcode.com/problems/word-search-ii/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-157",
+    "sheetRow": 157,
+    "section": "Object-Oriented Programming",
+    "title": "Only one link is enough, go through it all, solve problems, read concepts",
+    "links": [
+      "https://www.tpointtech.com/java-oops-concepts"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-160",
+    "sheetRow": 160,
+    "section": "Linked List",
+    "title": "What is Node for linkedlist",
+    "links": [
+      "https://www.geeksforgeeks.org/java/implementing-a-linked-list-in-java-using-class/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-162",
+    "sheetRow": 162,
+    "section": "Linked List",
+    "title": "Construction of our own LinkedList",
+    "links": [
+      "https://github.com/Samrat-Bhardwaj/ALGOFORGE/blob/main/Batch1/LinkedList/Construction/Main.java"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": "Take help from here to understand more:"
+  },
+  {
+    "id": "algoforge-163",
+    "sheetRow": 163,
+    "section": "Linked List",
+    "title": "Add a value at last in LinkedList",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-164",
+    "sheetRow": 164,
+    "section": "Linked List",
+    "title": "Add a value at start in LinkedList",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-165",
+    "sheetRow": 165,
+    "section": "Linked List",
+    "title": "Print the complete linkedlist",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-166",
+    "sheetRow": 166,
+    "section": "Linked List",
+    "title": "Remove last node from linkedlist",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-167",
+    "sheetRow": 167,
+    "section": "Linked List",
+    "title": "Remove first node from linkedlist",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-168",
+    "sheetRow": 168,
+    "section": "Linked List",
+    "title": "Get Node at a particular index in LinkedList",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-169",
+    "sheetRow": 169,
+    "section": "Linked List",
+    "title": "Add node at particular index in LinkedList",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-170",
+    "sheetRow": 170,
+    "section": "Linked List",
+    "title": "Remove node from particular index",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-171",
+    "sheetRow": 171,
+    "section": "Linked List",
+    "title": "Reverse Linked list by swapping data",
+    "links": [
+      "https://leetcode.com/problems/reverse-linked-list/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-172",
+    "sheetRow": 172,
+    "section": "Linked List",
+    "title": "Reverse linkedlist by reversing pointers",
+    "links": [
+      "https://leetcode.com/problems/reverse-linked-list/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-175",
+    "sheetRow": 175,
+    "section": "Linked List Questions",
+    "title": "Get Kth node from end of LL",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/0"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-176",
+    "sheetRow": 176,
+    "section": "Linked List Questions",
+    "title": "Find middle of linkedlist using hare tortoise algo",
+    "links": [
+      "https://leetcode.com/problems/middle-of-the-linked-list/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-177",
+    "sheetRow": 177,
+    "section": "Linked List Questions",
+    "title": "Pallindrome Linkedlist",
+    "links": [
+      "https://leetcode.com/problems/palindrome-linked-list/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-178",
+    "sheetRow": 178,
+    "section": "Linked List Questions",
+    "title": "Reorder list",
+    "links": [
+      "https://leetcode.com/problems/reorder-list/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-179",
+    "sheetRow": 179,
+    "section": "Linked List Questions",
+    "title": "Undo re-ordering of list (Undo above question)",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-180",
+    "sheetRow": 180,
+    "section": "Linked List Questions",
+    "title": "Odd even linkedlist",
+    "links": [
+      "https://leetcode.com/problems/odd-even-linked-list/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-181",
+    "sheetRow": 181,
+    "section": "Linked List Questions",
+    "title": "Seggregate even odd lists",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-182",
+    "sheetRow": 182,
+    "section": "Linked List Questions",
+    "title": "Reverse nodes in k group",
+    "links": [
+      "https://leetcode.com/problems/reverse-nodes-in-k-group/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-183",
+    "sheetRow": 183,
+    "section": "Linked List Questions",
+    "title": "Copy List with random pointer",
+    "links": [
+      "https://leetcode.com/problems/copy-list-with-random-pointer/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-184",
+    "sheetRow": 184,
+    "section": "Linked List Questions",
+    "title": "Add two LL",
+    "links": [
+      "https://leetcode.com/problems/add-two-numbers/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-185",
+    "sheetRow": 185,
+    "section": "Linked List Questions",
+    "title": "Remove duplicates from sorted LL, keeping first duplicate",
+    "links": [
+      "https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-186",
+    "sheetRow": 186,
+    "section": "Linked List Questions",
+    "title": "Remove all duplicates from LL",
+    "links": [
+      "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-188",
+    "sheetRow": 188,
+    "section": "Linked List Questions",
+    "title": "Linkedlist cycle",
+    "links": [
+      "https://leetcode.com/problems/linked-list-cycle/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-189",
+    "sheetRow": 189,
+    "section": "Linked List Questions",
+    "title": "Starting point of cycle in linkedList",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list--170645/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-190",
+    "sheetRow": 190,
+    "section": "Linked List Questions",
+    "title": "Merge two sorted lists",
+    "links": [
+      "https://leetcode.com/problems/merge-two-sorted-lists/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-191",
+    "sheetRow": 191,
+    "section": "Linked List Questions",
+    "title": "Intersection of two LL",
+    "links": [
+      "https://leetcode.com/problems/intersection-of-two-linked-lists/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-193",
+    "sheetRow": 193,
+    "section": "Linked List Questions",
+    "title": "Design browser history",
+    "links": [
+      "https://leetcode.com/problems/design-browser-history/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-194",
+    "sheetRow": 194,
+    "section": "Linked List Questions",
+    "title": "Reverse nodes in even length group",
+    "links": [
+      "https://leetcode.com/problems/reverse-nodes-in-even-length-groups/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-195",
+    "sheetRow": 195,
+    "section": "Linked List Questions",
+    "title": "Rotate lists",
+    "links": [
+      "https://leetcode.com/problems/rotate-list/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-196",
+    "sheetRow": 196,
+    "section": "Linked List Questions",
+    "title": "Merge in between linkedlist",
+    "links": [
+      "https://leetcode.com/problems/merge-in-between-linked-lists/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-197",
+    "sheetRow": 197,
+    "section": "Linked List Questions",
+    "title": "Introduction of circular LL is enough after all these problems",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/circular-linked-list/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-200",
+    "sheetRow": 200,
+    "section": "Stack",
+    "title": "Duplicate parentheses",
+    "links": [
+      "https://www.geeksforgeeks.org/find-expression-duplicate-parenthesis-not/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-201",
+    "sheetRow": 201,
+    "section": "Stack",
+    "title": "Valid parentheses",
+    "links": [
+      "https://leetcode.com/problems/valid-parentheses/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-202",
+    "sheetRow": 202,
+    "section": "Stack",
+    "title": "Next greater element on right method 1",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-203",
+    "sheetRow": 203,
+    "section": "Stack",
+    "title": "Next greater on right from Left to right",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-204",
+    "sheetRow": 204,
+    "section": "Stack",
+    "title": "Next Smaller on left",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/smallest-number-on-left3403/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-205",
+    "sheetRow": 205,
+    "section": "Stack",
+    "title": "Next smaller on left, iterate from right",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/smallest-number-on-left3403/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-206",
+    "sheetRow": 206,
+    "section": "Stack",
+    "title": "Next smaller on right, iterate from left",
+    "links": [
+      "https://www.geeksforgeeks.org/next-smaller-element/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-207",
+    "sheetRow": 207,
+    "section": "Stack",
+    "title": "Next smaller on right, iterate from right",
+    "links": [
+      "https://www.geeksforgeeks.org/next-smaller-element/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-208",
+    "sheetRow": 208,
+    "section": "Stack",
+    "title": "Stock Span",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-209",
+    "sheetRow": 209,
+    "section": "Stack",
+    "title": "Stock span in class",
+    "links": [
+      "https://leetcode.com/problems/online-stock-span/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-210",
+    "sheetRow": 210,
+    "section": "Stack",
+    "title": "Largest area histogram",
+    "links": [
+      "https://leetcode.com/problems/largest-rectangle-in-histogram/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-211",
+    "sheetRow": 211,
+    "section": "Stack",
+    "title": "Largest area histogram opitimized",
+    "links": [
+      "https://leetcode.com/problems/largest-rectangle-in-histogram/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-212",
+    "sheetRow": 212,
+    "section": "Stack",
+    "title": "Maximal rectangle",
+    "links": [
+      "https://leetcode.com/problems/maximal-rectangle/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-213",
+    "sheetRow": 213,
+    "section": "Stack",
+    "title": "Sliding Window Maximum using stack",
+    "links": [
+      "https://leetcode.com/problems/sliding-window-maximum/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-214",
+    "sheetRow": 214,
+    "section": "Stack",
+    "title": "Inifix Evaluation",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/fun-with-expresions2523/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-215",
+    "sheetRow": 215,
+    "section": "Stack",
+    "title": "Basic calculator 2",
+    "links": [
+      "https://leetcode.com/problems/basic-calculator-ii/submissions/1629833449/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-216",
+    "sheetRow": 216,
+    "section": "Stack",
+    "title": "Infix to prefix conversion",
+    "links": [
+      "https://www.geeksforgeeks.org/convert-infix-prefix-notation/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-217",
+    "sheetRow": 217,
+    "section": "Stack",
+    "title": "Infix to postfix conversion",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-218",
+    "sheetRow": 218,
+    "section": "Stack",
+    "title": "Prefix evaluation and conversion",
+    "links": [
+      "https://www.geeksforgeeks.org/evaluation-prefix-expressions/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-219",
+    "sheetRow": 219,
+    "section": "Stack",
+    "title": "Postfix evaluation and conversion",
+    "links": [
+      "https://www.geeksforgeeks.org/evaluation-of-postfix-expression/?ref=rp",
+      "https://leetcode.com/problems/evaluate-reverse-polish-notation/description"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-220",
+    "sheetRow": 220,
+    "section": "Stack",
+    "title": "Merge Intervals",
+    "links": [
+      "https://leetcode.com/problems/merge-intervals/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-221",
+    "sheetRow": 221,
+    "section": "Stack",
+    "title": "Merge Intervals without stack",
+    "links": [
+      "https://leetcode.com/problems/merge-intervals/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-222",
+    "sheetRow": 222,
+    "section": "Stack",
+    "title": "Build static stack",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-223",
+    "sheetRow": 223,
+    "section": "Stack",
+    "title": "Build dynamic stack",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-224",
+    "sheetRow": 224,
+    "section": "Stack",
+    "title": "Build Static Queue",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-225",
+    "sheetRow": 225,
+    "section": "Stack",
+    "title": "Build Dynamic Queue",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-226",
+    "sheetRow": 226,
+    "section": "Stack",
+    "title": "Build stack using Queue push efficient",
+    "links": [
+      "https://leetcode.com/problems/implement-stack-using-queues/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-227",
+    "sheetRow": 227,
+    "section": "Stack",
+    "title": "Build stack using Queue pop efficient",
+    "links": [
+      "https://leetcode.com/problems/implement-stack-using-queues/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-228",
+    "sheetRow": 228,
+    "section": "Stack",
+    "title": "Build Queue using Stack add efficient",
+    "links": [
+      "https://leetcode.com/problems/implement-queue-using-stacks/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-229",
+    "sheetRow": 229,
+    "section": "Stack",
+    "title": "Build Queue using Stack remove efficient",
+    "links": [
+      "https://leetcode.com/problems/implement-queue-using-stacks/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-230",
+    "sheetRow": 230,
+    "section": "Stack",
+    "title": "Two stack in array",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-231",
+    "sheetRow": 231,
+    "section": "Stack",
+    "title": "Min Stack",
+    "links": [
+      "https://leetcode.com/problems/min-stack/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-232",
+    "sheetRow": 232,
+    "section": "Stack",
+    "title": "Min Stack constant space",
+    "links": [
+      "https://leetcode.com/problems/min-stack/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-233",
+    "sheetRow": 233,
+    "section": "Stack",
+    "title": "Next greater right in circular array",
+    "links": [
+      "https://leetcode.com/problems/next-greater-element-ii/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-234",
+    "sheetRow": 234,
+    "section": "Stack",
+    "title": "Next greater right in circular array, move from right to left",
+    "links": [
+      "https://leetcode.com/problems/next-greater-element-ii/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-235",
+    "sheetRow": 235,
+    "section": "Stack",
+    "title": "Validate stack sequences",
+    "links": [
+      "https://leetcode.com/problems/validate-stack-sequences/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-236",
+    "sheetRow": 236,
+    "section": "Stack",
+    "title": "Validate stack sequences in O(1) Space",
+    "links": [
+      "https://leetcode.com/problems/validate-stack-sequences/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-237",
+    "sheetRow": 237,
+    "section": "Stack",
+    "title": "Minimum add to make parentheses valid",
+    "links": [
+      "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-238",
+    "sheetRow": 238,
+    "section": "Stack",
+    "title": "Remove outermost parentheses",
+    "links": [
+      "https://leetcode.com/problems/remove-outermost-parentheses/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-239",
+    "sheetRow": 239,
+    "section": "Stack",
+    "title": "Minimum insertions to make parentheses valid 2",
+    "links": [
+      "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-240",
+    "sheetRow": 240,
+    "section": "Stack",
+    "title": "Valid Parentheses with *",
+    "links": [
+      "https://leetcode.com/problems/valid-parenthesis-string/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-241",
+    "sheetRow": 241,
+    "section": "Stack",
+    "title": "Make Parentheses valid with locked array",
+    "links": [
+      "https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-242",
+    "sheetRow": 242,
+    "section": "Stack",
+    "title": "Parentheses Score",
+    "links": [
+      "https://leetcode.com/problems/score-of-parentheses/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-243",
+    "sheetRow": 243,
+    "section": "Stack",
+    "title": "132 Pattern",
+    "links": [
+      "https://leetcode.com/problems/132-pattern/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-244",
+    "sheetRow": 244,
+    "section": "Stack",
+    "title": "Asteroid Collision",
+    "links": [
+      "https://leetcode.com/problems/asteroid-collision/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-245",
+    "sheetRow": 245,
+    "section": "Stack",
+    "title": "Remove K digits to make smallest number",
+    "links": [
+      "https://leetcode.com/problems/remove-k-digits/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-246",
+    "sheetRow": 246,
+    "section": "Stack",
+    "title": "Simplify Path",
+    "links": [
+      "https://leetcode.com/problems/simplify-path/description/?envType=problem-list-v2&envId=stack"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-247",
+    "sheetRow": 247,
+    "section": "Stack",
+    "title": "Trapping rain water using stack",
+    "links": [
+      "https://leetcode.com/problems/trapping-rain-water/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-248",
+    "sheetRow": 248,
+    "section": "Stack",
+    "title": "Trapping rain water using array",
+    "links": [
+      "https://leetcode.com/problems/trapping-rain-water/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-249",
+    "sheetRow": 249,
+    "section": "Stack",
+    "title": "Trapping rain water O(1) Space",
+    "links": [
+      "https://leetcode.com/problems/trapping-rain-water/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-250",
+    "sheetRow": 250,
+    "section": "Stack",
+    "title": "Container with most water using stack",
+    "links": [
+      "https://leetcode.com/problems/container-with-most-water/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-251",
+    "sheetRow": 251,
+    "section": "Stack",
+    "title": "Container with most water in O(1) space",
+    "links": [
+      "https://leetcode.com/problems/container-with-most-water/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-252",
+    "sheetRow": 252,
+    "section": "Stack",
+    "title": "Lexiographically smallest subset",
+    "links": [
+      "https://leetcode.com/problems/find-the-most-competitive-subsequence/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-253",
+    "sheetRow": 253,
+    "section": "Stack",
+    "title": "Number of Valid Subarrays",
+    "links": [
+      "https://leetcode.ca/all/1063.html"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-254",
+    "sheetRow": 254,
+    "section": "Stack",
+    "title": "Basic Calculator 1",
+    "links": [],
+    "resourceLabel": "Leetcode question",
+    "searchUrl": "https://www.google.com/search?q=Basic+Calculator+1+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-255",
+    "sheetRow": 255,
+    "section": "Stack",
+    "title": "Basic Calculator 3",
+    "links": [],
+    "resourceLabel": "Leetcode question",
+    "searchUrl": "https://www.google.com/search?q=Basic+Calculator+3+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-256",
+    "sheetRow": 256,
+    "section": "Stack",
+    "title": "Basic Calculator 4",
+    "links": [],
+    "resourceLabel": "Leetcode question",
+    "searchUrl": "https://www.google.com/search?q=Basic+Calculator+4+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-257",
+    "sheetRow": 257,
+    "section": "Stack",
+    "title": "Check if word is valid after substitutions",
+    "links": [
+      "https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-258",
+    "sheetRow": 258,
+    "section": "Stack",
+    "title": "Max Stack",
+    "links": [
+      "https://www.lintcode.com/problem/859/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-261",
+    "sheetRow": 261,
+    "section": "Queue",
+    "title": "Number of recent calls",
+    "links": [
+      "https://leetcode.com/problems/number-of-recent-calls/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-262",
+    "sheetRow": 262,
+    "section": "Queue",
+    "title": "Moving Average from Data Stream",
+    "links": [
+      "https://www.lintcode.com/problem/642/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-263",
+    "sheetRow": 263,
+    "section": "Queue",
+    "title": "Hit counter",
+    "links": [
+      "https://www.lintcode.com/problem/3662/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-264",
+    "sheetRow": 264,
+    "section": "Queue",
+    "title": "Sliding Window Maximum using deque",
+    "links": [
+      "https://leetcode.com/problems/sliding-window-maximum/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-265",
+    "sheetRow": 265,
+    "section": "Queue",
+    "title": "Shortest subarray with sum at least k",
+    "links": [
+      "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-266",
+    "sheetRow": 266,
+    "section": "Queue",
+    "title": "Design circular queue",
+    "links": [
+      "https://leetcode.com/problems/design-circular-queue/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-267",
+    "sheetRow": 267,
+    "section": "Queue",
+    "title": "Design circular deQueue",
+    "links": [
+      "https://leetcode.com/problems/design-circular-deque/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-270",
+    "sheetRow": 270,
+    "section": "HashMap",
+    "title": "Maximum frequency character",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-271",
+    "sheetRow": 271,
+    "section": "HashMap",
+    "title": "Count elements with maximum frequency",
+    "links": [
+      "https://leetcode.com/problems/count-elements-with-maximum-frequency/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-272",
+    "sheetRow": 272,
+    "section": "HashMap",
+    "title": "Intersection of two arrays using map",
+    "links": [
+      "https://leetcode.com/problems/intersection-of-two-arrays/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-273",
+    "sheetRow": 273,
+    "section": "HashMap",
+    "title": "Intersection of two arrays using set",
+    "links": [
+      "https://leetcode.com/problems/intersection-of-two-arrays/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-274",
+    "sheetRow": 274,
+    "section": "HashMap",
+    "title": "All common elements of two arrays",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/common-elements5420/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-275",
+    "sheetRow": 275,
+    "section": "HashMap",
+    "title": "Common elements",
+    "links": [
+      "https://leetcode.com/problems/find-common-elements-between-two-arrays/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-276",
+    "sheetRow": 276,
+    "section": "HashMap",
+    "title": "Check If Array Pairs Are Divisible by k",
+    "links": [
+      "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-277",
+    "sheetRow": 277,
+    "section": "HashMap",
+    "title": "Count distinct elements in every window",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-278",
+    "sheetRow": 278,
+    "section": "HashMap",
+    "title": "Largest subarray with zero sum",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-279",
+    "sheetRow": 279,
+    "section": "HashMap",
+    "title": "Count of subarray with zero sum",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/zero-sum-subarrays1825/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-280",
+    "sheetRow": 280,
+    "section": "HashMap",
+    "title": "Longest subarray with sum K",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-281",
+    "sheetRow": 281,
+    "section": "HashMap",
+    "title": "Count of subarray with sum K",
+    "links": [
+      "https://leetcode.com/problems/subarray-sum-equals-k/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-282",
+    "sheetRow": 282,
+    "section": "HashMap",
+    "title": "Count of subarrays with Sum divisible by K",
+    "links": [
+      "https://leetcode.com/problems/subarray-sums-divisible-by-k/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-283",
+    "sheetRow": 283,
+    "section": "HashMap",
+    "title": "Longest subarray with equal number of 0s and 1s",
+    "links": [
+      "https://leetcode.com/problems/contiguous-array/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-284",
+    "sheetRow": 284,
+    "section": "HashMap",
+    "title": "Count of subarray with equal number of 0s and 1s",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-285",
+    "sheetRow": 285,
+    "section": "HashMap",
+    "title": "LRU cache",
+    "links": [
+      "https://leetcode.com/problems/lru-cache/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-286",
+    "sheetRow": 286,
+    "section": "HashMap",
+    "title": "LFU cache",
+    "links": [
+      "https://leetcode.com/problems/lfu-cache/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-287",
+    "sheetRow": 287,
+    "section": "HashMap",
+    "title": "Maximum Frequency stack",
+    "links": [
+      "https://leetcode.com/problems/maximum-frequency-stack/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-288",
+    "sheetRow": 288,
+    "section": "HashMap",
+    "title": "Insert delete getRandom in O(1)",
+    "links": [
+      "https://leetcode.com/problems/insert-delete-getrandom-o1/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-290",
+    "sheetRow": 290,
+    "section": "HashMap",
+    "title": "MORE QUESTION ON HASHMAP HEAP WILL BE DONE DURING ARRAYS AND STRINGS",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-294",
+    "sheetRow": 294,
+    "section": "Heap and Priority Queue",
+    "title": "Kth Largest element",
+    "links": [
+      "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-295",
+    "sheetRow": 295,
+    "section": "Heap and Priority Queue",
+    "title": "Kth Smallest element",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-296",
+    "sheetRow": 296,
+    "section": "Heap and Priority Queue",
+    "title": "Sort nearly sorted (K-sorted) array",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-297",
+    "sheetRow": 297,
+    "section": "Heap and Priority Queue",
+    "title": "Median of data stream",
+    "links": [
+      "https://leetcode.com/problems/find-median-from-data-stream/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-298",
+    "sheetRow": 298,
+    "section": "Heap and Priority Queue",
+    "title": "Merge k sorted linked-lists",
+    "links": [
+      "https://leetcode.com/problems/merge-k-sorted-lists/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-299",
+    "sheetRow": 299,
+    "section": "Heap and Priority Queue",
+    "title": "Merege k sorted arrays",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-303",
+    "sheetRow": 303,
+    "section": "Generic Trees",
+    "title": "Construction of generic tree",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-304",
+    "sheetRow": 304,
+    "section": "Generic Trees",
+    "title": "Display of generic tree",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-305",
+    "sheetRow": 305,
+    "section": "Generic Trees",
+    "title": "Size of Tree",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-306",
+    "sheetRow": 306,
+    "section": "Generic Trees",
+    "title": "Maximum of Tree",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-307",
+    "sheetRow": 307,
+    "section": "Generic Trees",
+    "title": "Height of Tree",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-308",
+    "sheetRow": 308,
+    "section": "Generic Trees",
+    "title": "Euler traversal of tree",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-309",
+    "sheetRow": 309,
+    "section": "Generic Trees",
+    "title": "Level order traversal (3 methods)",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-310",
+    "sheetRow": 310,
+    "section": "Generic Trees",
+    "title": "Zig zag traversal",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-311",
+    "sheetRow": 311,
+    "section": "Generic Trees",
+    "title": "Mirror a generic Tree",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/mirror-of-n-ary-tree/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-312",
+    "sheetRow": 312,
+    "section": "Generic Trees",
+    "title": "Remove leaf nodes",
+    "links": [
+      "https://www.geeksforgeeks.org/remove-all-leaf-nodes-from-a-generic-tree-or-n-ary-tree/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-313",
+    "sheetRow": 313,
+    "section": "Generic Trees",
+    "title": "Linearise a GT, O(N2)",
+    "links": [
+      "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/"
+    ],
+    "resourceLabel": "Similar for linkedList:",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-314",
+    "sheetRow": 314,
+    "section": "Generic Trees",
+    "title": "Linearise a GT, O(N)",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-315",
+    "sheetRow": 315,
+    "section": "Generic Trees",
+    "title": "Find in Generic Tree",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-316",
+    "sheetRow": 316,
+    "section": "Generic Trees",
+    "title": "Node to root Path",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-317",
+    "sheetRow": 317,
+    "section": "Generic Trees",
+    "title": "Lowest common Ancestor (LCA) in generic tree",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-318",
+    "sheetRow": 318,
+    "section": "Generic Trees",
+    "title": "Is Tree Mirror",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-319",
+    "sheetRow": 319,
+    "section": "Generic Trees",
+    "title": "Is Tree Symmetric",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/check-if-given-generic-n-ary-tree-is-symmetric-horizontally/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-322",
+    "sheetRow": 322,
+    "section": "Binary Trees",
+    "title": "Construct a binary Tree",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-323",
+    "sheetRow": 323,
+    "section": "Binary Trees",
+    "title": "Display a binary Tree",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-324",
+    "sheetRow": 324,
+    "section": "Binary Trees",
+    "title": "Size, sum, max, height of tree",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-325",
+    "sheetRow": 325,
+    "section": "Binary Trees",
+    "title": "Depth of tree",
+    "links": [
+      "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-326",
+    "sheetRow": 326,
+    "section": "Binary Trees",
+    "title": "Sum of BT",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/sum-of-binary-tree/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-327",
+    "sheetRow": 327,
+    "section": "Binary Trees",
+    "title": "Size of Binary Tree",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/size-of-binary-tree/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-328",
+    "sheetRow": 328,
+    "section": "Binary Trees",
+    "title": "Preorder Traversal of BT using recursion",
+    "links": [
+      "https://leetcode.com/problems/binary-tree-preorder-traversal/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-329",
+    "sheetRow": 329,
+    "section": "Binary Trees",
+    "title": "Postorder Traversal using recursion",
+    "links": [
+      "https://leetcode.com/problems/binary-tree-postorder-traversal/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-330",
+    "sheetRow": 330,
+    "section": "Binary Trees",
+    "title": "Inorder Traversal using recursion",
+    "links": [
+      "https://leetcode.com/problems/binary-tree-inorder-traversal/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-331",
+    "sheetRow": 331,
+    "section": "Binary Trees",
+    "title": "Preorder Traversal of BT using stack",
+    "links": [
+      "https://leetcode.com/problems/binary-tree-preorder-traversal/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-332",
+    "sheetRow": 332,
+    "section": "Binary Trees",
+    "title": "Postorder Traversal using stack",
+    "links": [
+      "https://leetcode.com/problems/binary-tree-postorder-traversal/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-333",
+    "sheetRow": 333,
+    "section": "Binary Trees",
+    "title": "Inorder Traversal using stack",
+    "links": [
+      "https://leetcode.com/problems/binary-tree-inorder-traversal/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-334",
+    "sheetRow": 334,
+    "section": "Binary Trees",
+    "title": "Node to root path in Binary Tree",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-335",
+    "sheetRow": 335,
+    "section": "Binary Trees",
+    "title": "Get K levels down in Binary Tree",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-336",
+    "sheetRow": 336,
+    "section": "Binary Trees",
+    "title": "Get Nodes at K distance",
+    "links": [
+      "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-337",
+    "sheetRow": 337,
+    "section": "Binary Trees",
+    "title": "LCA of binary tree",
+    "links": [
+      "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-338",
+    "sheetRow": 338,
+    "section": "Binary Trees",
+    "title": "LCA in O(1) Space",
+    "links": [
+      "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-339",
+    "sheetRow": 339,
+    "section": "Binary Trees",
+    "title": "Minimum time required to burn tree if one node is on fire",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/burning-tree/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-340",
+    "sheetRow": 340,
+    "section": "Binary Trees",
+    "title": "Minimum time required to burn tree with water nodes",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/burning-tree/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": "Followup of"
+  },
+  {
+    "id": "algoforge-341",
+    "sheetRow": 341,
+    "section": "Binary Trees",
+    "title": "Get nodes at K distance on O(1 + rec) space",
+    "links": [
+      "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-342",
+    "sheetRow": 342,
+    "section": "Binary Trees",
+    "title": "Delete leaf nodes with a given value",
+    "links": [
+      "https://leetcode.com/problems/delete-leaves-with-a-given-value/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-343",
+    "sheetRow": 343,
+    "section": "Binary Trees",
+    "title": "Construct tree from preoder and inorder",
+    "links": [
+      "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-344",
+    "sheetRow": 344,
+    "section": "Binary Trees",
+    "title": "Construct tree from postorder and inorder",
+    "links": [
+      "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-345",
+    "sheetRow": 345,
+    "section": "Binary Trees",
+    "title": "Construct tree from preorder and postorder",
+    "links": [
+      "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-347",
+    "sheetRow": 347,
+    "section": "Binary Trees",
+    "title": "Maximum width of binary Tree",
+    "links": [
+      "https://leetcode.com/problems/maximum-width-of-binary-tree/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-348",
+    "sheetRow": 348,
+    "section": "Binary Trees",
+    "title": "Left View of binary Tree",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-349",
+    "sheetRow": 349,
+    "section": "Binary Trees",
+    "title": "Right view of binary Tree",
+    "links": [
+      "https://leetcode.com/problems/binary-tree-right-side-view/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-350",
+    "sheetRow": 350,
+    "section": "Binary Trees",
+    "title": "Vertical order of Binary Tree without preference",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-351",
+    "sheetRow": 351,
+    "section": "Binary Trees",
+    "title": "Vertical order of BT with Preference",
+    "links": [
+      "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-352",
+    "sheetRow": 352,
+    "section": "Binary Trees",
+    "title": "Vertical Sum of Binary Tree",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/vertical-sum/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-353",
+    "sheetRow": 353,
+    "section": "Binary Trees",
+    "title": "Bottom View of Binary Tree",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-354",
+    "sheetRow": 354,
+    "section": "Binary Trees",
+    "title": "Sum of Bottom View of Binary Tree",
+    "links": [
+      "https://www.geeksforgeeks.org/sum-of-nodes-in-bottom-view-of-binary-tree/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-355",
+    "sheetRow": 355,
+    "section": "Binary Trees",
+    "title": "Top View of Binary Tree",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-356",
+    "sheetRow": 356,
+    "section": "Binary Trees",
+    "title": "Sum of nodes of top view of binary Tree",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/sum-of-nodes-in-top-view-of-binary-tree/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-357",
+    "sheetRow": 357,
+    "section": "Binary Trees",
+    "title": "Diagnoal View of binary Tree",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-359",
+    "sheetRow": 359,
+    "section": "Binary Trees",
+    "title": "Diameter of Binary Tree (All 3 Methods)",
+    "links": [
+      "https://leetcode.com/problems/diameter-of-binary-tree/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-360",
+    "sheetRow": 360,
+    "section": "Binary Trees",
+    "title": "Max path sum from leaf to leaf",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/maximum-path-sum/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-361",
+    "sheetRow": 361,
+    "section": "Binary Trees",
+    "title": "Max path sum from any node to any node",
+    "links": [
+      "https://leetcode.com/problems/binary-tree-maximum-path-sum/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-363",
+    "sheetRow": 363,
+    "section": "Binary Trees",
+    "title": "Morris Traversal Implementation",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-364",
+    "sheetRow": 364,
+    "section": "Binary Trees",
+    "title": "Morris Inorder Traversal",
+    "links": [
+      "https://leetcode.com/problems/binary-tree-inorder-traversal/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-365",
+    "sheetRow": 365,
+    "section": "Binary Trees",
+    "title": "Morris Preorder Traversal",
+    "links": [
+      "https://leetcode.com/problems/binary-tree-preorder-traversal/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-366",
+    "sheetRow": 366,
+    "section": "Binary Trees",
+    "title": "Morris Postorder Traversal",
+    "links": [
+      "https://leetcode.com/problems/binary-tree-postorder-traversal/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-368",
+    "sheetRow": 368,
+    "section": "Binary Trees",
+    "title": "HasPath sum",
+    "links": [
+      "https://leetcode.com/problems/path-sum/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-369",
+    "sheetRow": 369,
+    "section": "Binary Trees",
+    "title": "get all paths with target sum",
+    "links": [
+      "https://leetcode.com/problems/path-sum-ii/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-371",
+    "sheetRow": 371,
+    "section": "Binary Trees",
+    "title": "Binary tree to doubly LL",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/binary-tree-to-dll/1",
+      "https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-372",
+    "sheetRow": 372,
+    "section": "Binary Trees",
+    "title": "Flatten Binary Tree to LinkedList - copy of flatten generic tree",
+    "links": [
+      "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-373",
+    "sheetRow": 373,
+    "section": "Binary Trees",
+    "title": "Flatten Binary Tree to LinkedList - move in reverse preoder recursively",
+    "links": [
+      "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-374",
+    "sheetRow": 374,
+    "section": "Binary Trees",
+    "title": "Populate next right pointer of each node in a perfect binary tree",
+    "links": [
+      "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-375",
+    "sheetRow": 375,
+    "section": "Binary Trees",
+    "title": "Populate next right pointer of each node in non-perfect binary tree",
+    "links": [
+      "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-377",
+    "sheetRow": 377,
+    "section": "Binary Trees",
+    "title": "Serialize and deserialize binary Tree",
+    "links": [
+      "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-379",
+    "sheetRow": 379,
+    "section": "Binary Trees",
+    "title": "Distribute coins in binary tree",
+    "links": [
+      "https://leetcode.com/problems/distribute-coins-in-binary-tree/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-380",
+    "sheetRow": 380,
+    "section": "Binary Trees",
+    "title": "Binary tree cameras",
+    "links": [
+      "https://leetcode.com/problems/binary-tree-cameras/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-381",
+    "sheetRow": 381,
+    "section": "Binary Trees",
+    "title": "Binary tree coloring game (Greedy)",
+    "links": [
+      "https://leetcode.com/problems/binary-tree-coloring-game/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-382",
+    "sheetRow": 382,
+    "section": "Binary Trees",
+    "title": "Binary Tree Pruning",
+    "links": [
+      "https://leetcode.com/problems/binary-tree-pruning/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-383",
+    "sheetRow": 383,
+    "section": "Binary Trees",
+    "title": "Height of Binary Tree After Subtree Removal Queries",
+    "links": [
+      "https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/description"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-386",
+    "sheetRow": 386,
+    "section": "Binary Search Trees",
+    "title": "Construct BST",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-388",
+    "sheetRow": 388,
+    "section": "Binary Search Trees",
+    "title": "Size, sum",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-389",
+    "sheetRow": 389,
+    "section": "Binary Search Trees",
+    "title": "Max Of BST",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-390",
+    "sheetRow": 390,
+    "section": "Binary Search Trees",
+    "title": "Min of BST",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-391",
+    "sheetRow": 391,
+    "section": "Binary Search Trees",
+    "title": "Search BST",
+    "links": [
+      "https://leetcode.com/problems/search-in-a-binary-search-tree/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-392",
+    "sheetRow": 392,
+    "section": "Binary Search Trees",
+    "title": "LCA of BST",
+    "links": [
+      "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-393",
+    "sheetRow": 393,
+    "section": "Binary Search Trees",
+    "title": "Insert node in BST",
+    "links": [
+      "https://leetcode.com/problems/insert-into-a-binary-search-tree/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-394",
+    "sheetRow": 394,
+    "section": "Binary Search Trees",
+    "title": "Delete Node in BST",
+    "links": [
+      "https://leetcode.com/problems/delete-node-in-a-bst/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-395",
+    "sheetRow": 395,
+    "section": "Binary Search Trees",
+    "title": "Trim BST on the basis of lower limit, upper limit",
+    "links": [
+      "https://leetcode.com/problems/trim-a-binary-search-tree/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-396",
+    "sheetRow": 396,
+    "section": "Binary Search Trees",
+    "title": "Convert bst to greater Tree",
+    "links": [
+      "https://leetcode.com/problems/convert-bst-to-greater-tree/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-397",
+    "sheetRow": 397,
+    "section": "Binary Search Trees",
+    "title": "Find 2 sum pair in BST",
+    "links": [
+      "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-398",
+    "sheetRow": 398,
+    "section": "Binary Search Trees",
+    "title": "Find 2 sum pair in BST iteratively",
+    "links": [
+      "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-399",
+    "sheetRow": 399,
+    "section": "Binary Search Trees",
+    "title": "Construct BST from preorder",
+    "links": [
+      "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-400",
+    "sheetRow": 400,
+    "section": "Binary Search Trees",
+    "title": "Construct BST from postorder",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/construct-bst-from-post-order/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-401",
+    "sheetRow": 401,
+    "section": "Binary Search Trees",
+    "title": "Validate BST using BST Pair",
+    "links": [
+      "https://leetcode.com/problems/validate-binary-search-tree/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-402",
+    "sheetRow": 402,
+    "section": "Binary Search Trees",
+    "title": "Maximum Sum BST in Binary Tree",
+    "links": [
+      "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-403",
+    "sheetRow": 403,
+    "section": "Binary Search Trees",
+    "title": "Validate BST Using inorder traversal",
+    "links": [
+      "https://leetcode.com/problems/validate-binary-search-tree/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-404",
+    "sheetRow": 404,
+    "section": "Binary Search Trees",
+    "title": "Validate BST Using inorder traversal but O(1) Space",
+    "links": [
+      "https://leetcode.com/problems/validate-binary-search-tree/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-405",
+    "sheetRow": 405,
+    "section": "Binary Search Trees",
+    "title": "Recover BST",
+    "links": [
+      "https://leetcode.com/problems/recover-binary-search-tree/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-406",
+    "sheetRow": 406,
+    "section": "Binary Search Trees",
+    "title": "BST Iterator",
+    "links": [
+      "https://leetcode.com/problems/binary-search-tree-iterator/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-407",
+    "sheetRow": 407,
+    "section": "Binary Search Trees",
+    "title": "Kth Smallest element in BST",
+    "links": [
+      "https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-408",
+    "sheetRow": 408,
+    "section": "Binary Search Trees",
+    "title": "Predecessor and Successor of BST key using recursion",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/predecessor-and-successor/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-409",
+    "sheetRow": 409,
+    "section": "Binary Search Trees",
+    "title": "Predecessor and Successor of BST key using iteration",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/predecessor-and-successor/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-411",
+    "sheetRow": 411,
+    "section": "Binary Search Trees",
+    "title": "AVL Trees / Red-Black Trees",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-412",
+    "sheetRow": 412,
+    "section": "Binary Search Trees",
+    "title": "Check if tree is balanced",
+    "links": [
+      "https://leetcode.com/problems/balanced-binary-tree/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-413",
+    "sheetRow": 413,
+    "section": "Binary Search Trees",
+    "title": "AVL Tree implemenatation",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-414",
+    "sheetRow": 414,
+    "section": "Binary Search Trees",
+    "title": "Balance a BST",
+    "links": [
+      "https://leetcode.com/problems/balance-a-binary-search-tree/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-415",
+    "sheetRow": 415,
+    "section": "Binary Search Trees",
+    "title": "Insert into AVL",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/avl-tree-insertion/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-418",
+    "sheetRow": 418,
+    "section": "Graphs",
+    "title": "What, why Graph.",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-419",
+    "sheetRow": 419,
+    "section": "Graphs",
+    "title": "Construction of graph - Adjacency matrix, list",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-420",
+    "sheetRow": 420,
+    "section": "Graphs",
+    "title": "Check if there is a path between given source and destination",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-421",
+    "sheetRow": 421,
+    "section": "Graphs",
+    "title": "Print all paths between given source and destination",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-422",
+    "sheetRow": 422,
+    "section": "Graphs",
+    "title": "Find path with minimum weight between source and destination",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-423",
+    "sheetRow": 423,
+    "section": "Graphs",
+    "title": "Find path with maximum weight between source and destination",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-424",
+    "sheetRow": 424,
+    "section": "Graphs",
+    "title": "Find kth largest path weight between source and destination",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-425",
+    "sheetRow": 425,
+    "section": "Graphs",
+    "title": "Get all the connected components",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/connected-components-in-an-undirected-graph/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-426",
+    "sheetRow": 426,
+    "section": "Graphs",
+    "title": "Check if the whole graph is connected",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-427",
+    "sheetRow": 427,
+    "section": "Graphs",
+    "title": "Print all hamiltonian Paths and Cycle",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-428",
+    "sheetRow": 428,
+    "section": "Graphs",
+    "title": "Check if there is a hamiltonian path",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/hamiltonian-path2522/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-431",
+    "sheetRow": 431,
+    "section": "Depth-first Search Problems",
+    "title": "Number of islands",
+    "links": [
+      "https://leetcode.com/problems/number-of-islands/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-432",
+    "sheetRow": 432,
+    "section": "Depth-first Search Problems",
+    "title": "Max Area of island",
+    "links": [
+      "https://leetcode.com/problems/max-area-of-island/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-433",
+    "sheetRow": 433,
+    "section": "Depth-first Search Problems",
+    "title": "Surrounded regions",
+    "links": [
+      "https://leetcode.com/problems/surrounded-regions/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-434",
+    "sheetRow": 434,
+    "section": "Depth-first Search Problems",
+    "title": "Perimeter of island",
+    "links": [
+      "https://leetcode.com/problems/island-perimeter/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-435",
+    "sheetRow": 435,
+    "section": "Depth-first Search Problems",
+    "title": "Number of provinces",
+    "links": [
+      "https://leetcode.com/problems/number-of-provinces/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-436",
+    "sheetRow": 436,
+    "section": "Depth-first Search Problems",
+    "title": "Count sub islands",
+    "links": [
+      "https://leetcode.com/problems/count-sub-islands/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-437",
+    "sheetRow": 437,
+    "section": "Depth-first Search Problems",
+    "title": "Number of distinct islands",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-439",
+    "sheetRow": 439,
+    "section": "Depth-first Search Problems",
+    "title": "Implementation of Topological Sort For DAG",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-440",
+    "sheetRow": 440,
+    "section": "Depth-first Search Problems",
+    "title": "Implementation of Topological Sort For Generic Directed Graph",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-441",
+    "sheetRow": 441,
+    "section": "Depth-first Search Problems",
+    "title": "Is course scheduling possible",
+    "links": [
+      "https://leetcode.com/problems/course-schedule/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-442",
+    "sheetRow": 442,
+    "section": "Depth-first Search Problems",
+    "title": "Find course Schedule",
+    "links": [
+      "https://leetcode.com/problems/course-schedule-ii/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-443",
+    "sheetRow": 443,
+    "section": "Depth-first Search Problems",
+    "title": "Find eventual safe states",
+    "links": [
+      "https://leetcode.com/problems/find-eventual-safe-states/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-445",
+    "sheetRow": 445,
+    "section": "Depth-first Search Problems",
+    "title": "Implement Kosaraju Algorithm",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-447",
+    "sheetRow": 447,
+    "section": "Depth-first Search Problems",
+    "title": "Detonate the maximum bombs",
+    "links": [
+      "https://leetcode.com/problems/detonate-the-maximum-bombs/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-448",
+    "sheetRow": 448,
+    "section": "Depth-first Search Problems",
+    "title": "M coloring problem",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-451",
+    "sheetRow": 451,
+    "section": "Breadth-first Search",
+    "title": "BFS Implementation",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-452",
+    "sheetRow": 452,
+    "section": "Breadth-first Search",
+    "title": "BFS Implementation with cycle detection",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-453",
+    "sheetRow": 453,
+    "section": "Breadth-first Search",
+    "title": "As Far from land as possible",
+    "links": [
+      "https://leetcode.com/problems/as-far-from-land-as-possible/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-454",
+    "sheetRow": 454,
+    "section": "Breadth-first Search",
+    "title": "Zero-One Matrix",
+    "links": [],
+    "resourceLabel": "01 Matrix - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Zero-One+Matrix+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-455",
+    "sheetRow": 455,
+    "section": "Breadth-first Search",
+    "title": "Rotting oranges",
+    "links": [
+      "https://leetcode.com/problems/rotting-oranges/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-456",
+    "sheetRow": 456,
+    "section": "Breadth-first Search",
+    "title": "Shortest Path in binary Matrix",
+    "links": [
+      "https://leetcode.com/problems/shortest-path-in-binary-matrix/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-457",
+    "sheetRow": 457,
+    "section": "Breadth-first Search",
+    "title": "Walls and Gates",
+    "links": [
+      "https://www.lintcode.com/problem/663/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-458",
+    "sheetRow": 458,
+    "section": "Breadth-first Search",
+    "title": "Shortest bridge",
+    "links": [
+      "https://leetcode.com/problems/shortest-bridge/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-460",
+    "sheetRow": 460,
+    "section": "Breadth-first Search",
+    "title": "Kahn's Algorithm Implementation",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-461",
+    "sheetRow": 461,
+    "section": "Breadth-first Search",
+    "title": "Is course scheduling possible using BFS",
+    "links": [
+      "https://leetcode.com/problems/course-schedule/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-462",
+    "sheetRow": 462,
+    "section": "Breadth-first Search",
+    "title": "Find course Schedule using BFS",
+    "links": [
+      "https://leetcode.com/problems/course-schedule-ii/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-463",
+    "sheetRow": 463,
+    "section": "Breadth-first Search",
+    "title": "Longest Increasing Path",
+    "links": [
+      "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-465",
+    "sheetRow": 465,
+    "section": "Breadth-first Search",
+    "title": "What is Bipartite Graph",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-466",
+    "sheetRow": 466,
+    "section": "Breadth-first Search",
+    "title": "Is Graph bipartite",
+    "links": [
+      "https://leetcode.com/problems/is-graph-bipartite/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-467",
+    "sheetRow": 467,
+    "section": "Breadth-first Search",
+    "title": "Possible bipartition",
+    "links": [
+      "https://leetcode.com/problems/possible-bipartition/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-469",
+    "sheetRow": 469,
+    "section": "Breadth-first Search",
+    "title": "Word ladder without graph",
+    "links": [
+      "https://leetcode.com/problems/word-ladder/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-470",
+    "sheetRow": 470,
+    "section": "Breadth-first Search",
+    "title": "Word ladder with graph",
+    "links": [
+      "https://leetcode.com/problems/word-ladder/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-471",
+    "sheetRow": 471,
+    "section": "Breadth-first Search",
+    "title": "Word ladder 2",
+    "links": [
+      "https://leetcode.com/problems/word-ladder-ii/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-473",
+    "sheetRow": 473,
+    "section": "Breadth-first Search",
+    "title": "Bus Routes",
+    "links": [
+      "https://leetcode.com/problems/bus-routes/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-476",
+    "sheetRow": 476,
+    "section": "Union Find (DSU)",
+    "title": "DSU implementation, path compression, union by rank",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-477",
+    "sheetRow": 477,
+    "section": "Union Find (DSU)",
+    "title": "Redundant Connections",
+    "links": [
+      "https://leetcode.com/problems/redundant-connection/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-478",
+    "sheetRow": 478,
+    "section": "Union Find (DSU)",
+    "title": "Lexiographically smallest equivalent string",
+    "links": [
+      "https://leetcode.com/problems/lexicographically-smallest-equivalent-string/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-479",
+    "sheetRow": 479,
+    "section": "Union Find (DSU)",
+    "title": "Number of provinces using DSU",
+    "links": [
+      "https://leetcode.com/problems/number-of-provinces/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-480",
+    "sheetRow": 480,
+    "section": "Union Find (DSU)",
+    "title": "Max area of island using DSU",
+    "links": [
+      "https://leetcode.com/problems/max-area-of-island/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-481",
+    "sheetRow": 481,
+    "section": "Union Find (DSU)",
+    "title": "Number of islands 2",
+    "links": [
+      "https://leetcode.ca/all/305.html"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-482",
+    "sheetRow": 482,
+    "section": "Union Find (DSU)",
+    "title": "Similar string groups with the help of array indices",
+    "links": [
+      "https://leetcode.com/problems/similar-string-groups/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-483",
+    "sheetRow": 483,
+    "section": "Union Find (DSU)",
+    "title": "Similar string groups without the help of array indices",
+    "links": [
+      "https://leetcode.com/problems/similar-string-groups/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-484",
+    "sheetRow": 484,
+    "section": "Union Find (DSU)",
+    "title": "Satisfiability of Equality Equations",
+    "links": [
+      "https://leetcode.com/problems/satisfiability-of-equality-equations"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-485",
+    "sheetRow": 485,
+    "section": "Union Find (DSU)",
+    "title": "Count servers that communicate",
+    "links": [
+      "https://leetcode.com/problems/count-servers-that-communicate/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-486",
+    "sheetRow": 486,
+    "section": "Union Find (DSU)",
+    "title": "Regions cut by slashes",
+    "links": [
+      "https://leetcode.com/problems/regions-cut-by-slashes/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-487",
+    "sheetRow": 487,
+    "section": "Union Find (DSU)",
+    "title": "Number of operations to make network connected",
+    "links": [
+      "https://leetcode.com/problems/number-of-operations-to-make-network-connected"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-488",
+    "sheetRow": 488,
+    "section": "Union Find (DSU)",
+    "title": "Smallest string with swaps",
+    "links": [
+      "https://leetcode.com/problems/smallest-string-with-swaps/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-489",
+    "sheetRow": 489,
+    "section": "Union Find (DSU)",
+    "title": "Accounts merge",
+    "links": [
+      "https://leetcode.com/problems/accounts-merge/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-490",
+    "sheetRow": 490,
+    "section": "Union Find (DSU)",
+    "title": "Making a large island",
+    "links": [
+      "https://leetcode.com/problems/making-a-large-island/description"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-491",
+    "sheetRow": 491,
+    "section": "Union Find (DSU)",
+    "title": "Minimize malware spread",
+    "links": [
+      "https://leetcode.com/problems/minimize-malware-spread/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-494",
+    "sheetRow": 494,
+    "section": "Minimum Spanning Tree",
+    "title": "What is spanning Tree, what is minimum spanning Tree",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-495",
+    "sheetRow": 495,
+    "section": "Minimum Spanning Tree",
+    "title": "Create MST using DSU (Kruskal)",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-498",
+    "sheetRow": 498,
+    "section": "Graph Algorithms",
+    "title": "Kruskal Algorithm Implementation",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-499",
+    "sheetRow": 499,
+    "section": "Graph Algorithms",
+    "title": "Min cost to connect all points",
+    "links": [
+      "https://leetcode.com/problems/min-cost-to-connect-all-points/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-500",
+    "sheetRow": 500,
+    "section": "Graph Algorithms",
+    "title": "Optimize Water distribution in a village",
+    "links": [
+      "https://leetcode.ca/all/1168.html"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-501",
+    "sheetRow": 501,
+    "section": "Graph Algorithms",
+    "title": "Connecting cities with minimum cost",
+    "links": [
+      "https://leetcode.ca/all/1135.html"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-502",
+    "sheetRow": 502,
+    "section": "Graph Algorithms",
+    "title": "Minimize maximum component cost",
+    "links": [
+      "https://leetcode.com/problems/minimize-maximum-component-cost/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-504",
+    "sheetRow": 504,
+    "section": "Graph Algorithms",
+    "title": "Build MST using Prims Algorithm",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-505",
+    "sheetRow": 505,
+    "section": "Graph Algorithms",
+    "title": "Find cost of MST",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-507",
+    "sheetRow": 507,
+    "section": "Graph Algorithms",
+    "title": "Dijkstra Algorithm Implementation",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-508",
+    "sheetRow": 508,
+    "section": "Graph Algorithms",
+    "title": "Network delay time",
+    "links": [
+      "https://leetcode.com/problems/network-delay-time/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-509",
+    "sheetRow": 509,
+    "section": "Graph Algorithms",
+    "title": "Path with minimum effort",
+    "links": [
+      "https://leetcode.com/problems/path-with-minimum-effort/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-510",
+    "sheetRow": 510,
+    "section": "Graph Algorithms",
+    "title": "Minimum cost to reach destination in time",
+    "links": [
+      "https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-511",
+    "sheetRow": 511,
+    "section": "Graph Algorithms",
+    "title": "Number of ways to arrive at destination",
+    "links": [
+      "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-512",
+    "sheetRow": 512,
+    "section": "Graph Algorithms",
+    "title": "Lexiographically shortest maze path to hole",
+    "links": [
+      "https://leetcode.ca/all/499.html"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-513",
+    "sheetRow": 513,
+    "section": "Graph Algorithms",
+    "title": "Swin in rising water",
+    "links": [
+      "https://leetcode.com/problems/swim-in-rising-water/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-514",
+    "sheetRow": 514,
+    "section": "Graph Algorithms",
+    "title": "Network recovery Pathways",
+    "links": [],
+    "resourceLabel": "Network Recovery Pathways - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Network+recovery+Pathways+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-516",
+    "sheetRow": 516,
+    "section": "Graph Algorithms",
+    "title": "Bellman ford Implementation",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-517",
+    "sheetRow": 517,
+    "section": "Graph Algorithms",
+    "title": "Cheapest flights within k stops",
+    "links": [
+      "https://leetcode.com/problems/cheapest-flights-within-k-stops/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-519",
+    "sheetRow": 519,
+    "section": "Graph Algorithms",
+    "title": "Floyd Warshall Algorithm",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/floyd-warshall-algorithm-dp-16/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-520",
+    "sheetRow": 520,
+    "section": "Graph Algorithms",
+    "title": "Implement floyd warshall",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-522",
+    "sheetRow": 522,
+    "section": "Graph Algorithms",
+    "title": "Articulation point/Tarjan's Algorithm (optional)",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/articulation-points-or-cut-vertices-in-a-graph/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-523",
+    "sheetRow": 523,
+    "section": "Graph Algorithms",
+    "title": "Mother Vertex",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/mother-vertex/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-526",
+    "sheetRow": 526,
+    "section": "Mixed Graph Problems",
+    "title": "Pacific Atlantic water flow",
+    "links": [
+      "https://leetcode.com/problems/pacific-atlantic-water-flow/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-527",
+    "sheetRow": 527,
+    "section": "Mixed Graph Problems",
+    "title": "Clone graph",
+    "links": [
+      "https://leetcode.com/problems/clone-graph/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-528",
+    "sheetRow": 528,
+    "section": "Mixed Graph Problems",
+    "title": "Last Day where you can still cross",
+    "links": [
+      "https://leetcode.com/problems/last-day-where-you-can-still-cross/description"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-529",
+    "sheetRow": 529,
+    "section": "Mixed Graph Problems",
+    "title": "Shortest path with alternating colors",
+    "links": [
+      "https://leetcode.com/problems/shortest-path-with-alternating-colors/description"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-532",
+    "sheetRow": 532,
+    "section": "Dynamic Programming",
+    "title": "What is dynamic Programming",
+    "links": [],
+    "resourceLabel": "Dynamic Programming || How to solve any DP problem || DP series Part 1",
+    "searchUrl": "https://www.google.com/search?q=Dynamic+Programming+%7C%7C+How+to+solve+any+DP+problem+%7C%7C+DP+series+Part+1",
+    "note": ""
+  },
+  {
+    "id": "algoforge-533",
+    "sheetRow": 533,
+    "section": "Dynamic Programming",
+    "title": "How Memoization works",
+    "links": [],
+    "resourceLabel": "Dynamic Programming Tricks || Leetcode 377 Combination Sum 4 || Coin Change || Hack to solve any DP",
+    "searchUrl": "https://www.google.com/search?q=How+Memoization+works+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-534",
+    "sheetRow": 534,
+    "section": "Dynamic Programming",
+    "title": "Steps to solve any DP problem",
+    "links": [],
+    "resourceLabel": "Dynamic Programming Tricks || Leetcode 377 Combination Sum 4 || Coin Change || Hack to solve any DP",
+    "searchUrl": "https://www.google.com/search?q=Steps+to+solve+any+DP+problem+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-535",
+    "sheetRow": 535,
+    "section": "Dynamic Programming",
+    "title": "Find nth Term of fibonacci series",
+    "links": [],
+    "resourceLabel": "Dynamic Programming || How to solve any DP problem || DP series Part 1",
+    "searchUrl": "https://www.google.com/search?q=Dynamic+Programming+%7C%7C+How+to+solve+any+DP+problem+%7C%7C+DP+series+Part+1",
+    "note": ""
+  },
+  {
+    "id": "algoforge-536",
+    "sheetRow": 536,
+    "section": "Dynamic Programming",
+    "title": "Friends pairing using dp",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-537",
+    "sheetRow": 537,
+    "section": "Dynamic Programming",
+    "title": "Climbing stairs",
+    "links": [
+      "https://leetcode.com/problems/climbing-stairs/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-538",
+    "sheetRow": 538,
+    "section": "Dynamic Programming",
+    "title": "Unique maze path",
+    "links": [
+      "https://leetcode.com/problems/unique-paths/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-539",
+    "sheetRow": 539,
+    "section": "Dynamic Programming",
+    "title": "Unique maze path with diagonal moves",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-540",
+    "sheetRow": 540,
+    "section": "Dynamic Programming",
+    "title": "Min maze path sum",
+    "links": [
+      "https://leetcode.com/problems/minimum-path-sum/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-541",
+    "sheetRow": 541,
+    "section": "Dynamic Programming",
+    "title": "GoldMine",
+    "links": [],
+    "resourceLabel": "Gold Mine Problem | Practice | GeeksforGeeks",
+    "searchUrl": "https://www.google.com/search?q=GoldMine+GeeksforGeeks",
+    "note": ""
+  },
+  {
+    "id": "algoforge-542",
+    "sheetRow": 542,
+    "section": "Dynamic Programming",
+    "title": "Unique paths 2",
+    "links": [
+      "https://leetcode.com/problems/unique-paths-ii/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-543",
+    "sheetRow": 543,
+    "section": "Dynamic Programming",
+    "title": "Min cost climbing stairs",
+    "links": [
+      "https://leetcode.com/problems/min-cost-climbing-stairs/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-544",
+    "sheetRow": 544,
+    "section": "Dynamic Programming",
+    "title": "Min cost climbing stairs in O(1) space",
+    "links": [
+      "https://leetcode.com/problems/min-cost-climbing-stairs/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-545",
+    "sheetRow": 545,
+    "section": "Dynamic Programming",
+    "title": "Decode ways",
+    "links": [
+      "https://leetcode.com/problems/decode-ways/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-546",
+    "sheetRow": 546,
+    "section": "Dynamic Programming",
+    "title": "Decode ways in O(1) space",
+    "links": [
+      "https://leetcode.com/problems/decode-ways/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-547",
+    "sheetRow": 547,
+    "section": "Dynamic Programming",
+    "title": "Decode ways 2",
+    "links": [
+      "https://leetcode.com/problems/decode-ways-ii/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-548",
+    "sheetRow": 548,
+    "section": "Dynamic Programming",
+    "title": "Decode ways 2 in O(1) space",
+    "links": [
+      "https://leetcode.com/problems/decode-ways-ii/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-549",
+    "sheetRow": 549,
+    "section": "Dynamic Programming",
+    "title": "Jump game 2",
+    "links": [
+      "https://leetcode.com/problems/jump-game-ii/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-551",
+    "sheetRow": 551,
+    "section": "Dynamic Programming",
+    "title": "Target Sum subset",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-552",
+    "sheetRow": 552,
+    "section": "Dynamic Programming",
+    "title": "Coin Change Permutation using yes/no call",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-553",
+    "sheetRow": 553,
+    "section": "Dynamic Programming",
+    "title": "Coin Change Permutation using for loop",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-554",
+    "sheetRow": 554,
+    "section": "Dynamic Programming",
+    "title": "Coin change combination using 2D dp",
+    "links": [
+      "https://leetcode.com/problems/coin-change-ii/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-555",
+    "sheetRow": 555,
+    "section": "Dynamic Programming",
+    "title": "Coin change combination using 1D dp",
+    "links": [
+      "https://leetcode.com/problems/coin-change-ii/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-556",
+    "sheetRow": 556,
+    "section": "Dynamic Programming",
+    "title": "Combination sum 4",
+    "links": [
+      "https://leetcode.com/problems/combination-sum-iv/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-557",
+    "sheetRow": 557,
+    "section": "Dynamic Programming",
+    "title": "Minimum coins required",
+    "links": [],
+    "resourceLabel": "Coin Change - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Minimum+coins+required+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-558",
+    "sheetRow": 558,
+    "section": "Dynamic Programming",
+    "title": "Find if any subset with given target exists",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-559",
+    "sheetRow": 559,
+    "section": "Dynamic Programming",
+    "title": "Count of subsets with sum = target",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-560",
+    "sheetRow": 560,
+    "section": "Dynamic Programming",
+    "title": "Is it possible to partition array into two subsets of equal sum",
+    "links": [
+      "https://leetcode.com/problems/partition-equal-subset-sum/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-561",
+    "sheetRow": 561,
+    "section": "Dynamic Programming",
+    "title": "0-1 Knapsack",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-562",
+    "sheetRow": 562,
+    "section": "Dynamic Programming",
+    "title": "Find a string with items picked to get the maximum profit in knapsack",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-563",
+    "sheetRow": 563,
+    "section": "Dynamic Programming",
+    "title": "Unbounded knapsack",
+    "links": [],
+    "resourceLabel": "Knapsack with Duplicate Items | Practice | GeeksforGeeks",
+    "searchUrl": "https://www.google.com/search?q=Unbounded+knapsack+GeeksforGeeks",
+    "note": ""
+  },
+  {
+    "id": "algoforge-564",
+    "sheetRow": 564,
+    "section": "Dynamic Programming",
+    "title": "Find a string with items picked to get the maximum profit in unbounded knapsack",
+    "links": [],
+    "resourceLabel": "Knapsack with Duplicate Items | Practice | GeeksforGeeks",
+    "searchUrl": "https://www.google.com/search?q=Find+a+string+with+items+picked+to+get+the+maximum+profit+in+unbounded+knapsack+GeeksforGeeks",
+    "note": ""
+  },
+  {
+    "id": "algoforge-565",
+    "sheetRow": 565,
+    "section": "Dynamic Programming",
+    "title": "Target Sum with positive negative values",
+    "links": [],
+    "resourceLabel": "Target Sum - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Target+Sum+with+positive+negative+values+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-568",
+    "sheetRow": 568,
+    "section": "DP on Strings",
+    "title": "Longest pallindromic substring",
+    "links": [
+      "https://leetcode.com/problems/longest-palindromic-substring/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-569",
+    "sheetRow": 569,
+    "section": "DP on Strings",
+    "title": "Number of pallindromic substring",
+    "links": [
+      "https://leetcode.com/problems/palindromic-substrings/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-570",
+    "sheetRow": 570,
+    "section": "DP on Strings",
+    "title": "Longest pallindromic subsequence using Recursion",
+    "links": [],
+    "resourceLabel": "Longest Palindromic Subsequence - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Longest+pallindromic+subsequence+using+Recursion+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-571",
+    "sheetRow": 571,
+    "section": "DP on Strings",
+    "title": "Longest pallindromic subsequence using memo",
+    "links": [],
+    "resourceLabel": "Longest Palindromic Subsequence - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Longest+pallindromic+subsequence+using+memo+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-572",
+    "sheetRow": 572,
+    "section": "DP on Strings",
+    "title": "Longest pallindromic subsequence using tabulation",
+    "links": [],
+    "resourceLabel": "Longest Palindromic Subsequence - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Longest+pallindromic+subsequence+using+tabulation+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-573",
+    "sheetRow": 573,
+    "section": "DP on Strings",
+    "title": "Generate longest pallindromic subsequence using tabulation",
+    "links": [],
+    "resourceLabel": "Longest Palindromic Subsequence - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Generate+longest+pallindromic+subsequence+using+tabulation+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-574",
+    "sheetRow": 574,
+    "section": "DP on Strings",
+    "title": "Distinct subsequences",
+    "links": [],
+    "resourceLabel": "Distinct Subsequences - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Distinct+subsequences+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-575",
+    "sheetRow": 575,
+    "section": "DP on Strings",
+    "title": "Longest common subsequence length",
+    "links": [
+      "https://leetcode.com/problems/longest-common-subsequence/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-576",
+    "sheetRow": 576,
+    "section": "DP on Strings",
+    "title": "Longest common subsequence string using tabulation",
+    "links": [],
+    "resourceLabel": "Longest Common Subsequence - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Longest+common+subsequence+string+using+tabulation+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-577",
+    "sheetRow": 577,
+    "section": "DP on Strings",
+    "title": "Delete operation for 2 strings",
+    "links": [
+      "https://leetcode.com/problems/delete-operation-for-two-strings/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-578",
+    "sheetRow": 578,
+    "section": "DP on Strings",
+    "title": "Delete operation but with ASCII values",
+    "links": [],
+    "resourceLabel": "Minimum ASCII Delete Sum for Two Strings - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Delete+operation+but+with+ASCII+values+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-579",
+    "sheetRow": 579,
+    "section": "DP on Strings",
+    "title": "Maximum uncrossed lines",
+    "links": [
+      "https://leetcode.com/problems/uncrossed-lines/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-580",
+    "sheetRow": 580,
+    "section": "DP on Strings",
+    "title": "Edit distance",
+    "links": [],
+    "resourceLabel": "Edit Distance - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Edit+distance+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-581",
+    "sheetRow": 581,
+    "section": "DP on Strings",
+    "title": "WildCard matching",
+    "links": [],
+    "resourceLabel": "Wildcard Matching - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=WildCard+matching+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-582",
+    "sheetRow": 582,
+    "section": "DP on Strings",
+    "title": "Regular expression Matching",
+    "links": [],
+    "resourceLabel": "Regular Expression Matching - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Regular+expression+Matching+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-583",
+    "sheetRow": 583,
+    "section": "DP on Strings",
+    "title": "Distinct subsequences 2",
+    "links": [],
+    "resourceLabel": "Distinct Subsequences II - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Distinct+subsequences+2+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-584",
+    "sheetRow": 584,
+    "section": "DP on Strings",
+    "title": "Count sub of type ai-bj-ck",
+    "links": [],
+    "resourceLabel": "Count subsequences of type a^i, b^j, c^k | Practice | GeeksforGeeks",
+    "searchUrl": "https://www.google.com/search?q=Count+sub+of+type+ai-bj-ck+GeeksforGeeks",
+    "note": ""
+  },
+  {
+    "id": "algoforge-588",
+    "sheetRow": 588,
+    "section": "Longest Increasing Subsequence",
+    "title": "Longest increasing subsequence recursion + memoization",
+    "links": [
+      "https://leetcode.com/problems/longest-increasing-subsequence/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-589",
+    "sheetRow": 589,
+    "section": "Longest Increasing Subsequence",
+    "title": "Longest increasing subsequence tabulation",
+    "links": [
+      "https://leetcode.com/problems/longest-increasing-subsequence/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-590",
+    "sheetRow": 590,
+    "section": "Longest Increasing Subsequence",
+    "title": "Longest Decreasing subsequence with dp[i] = LDS ending with nums[i]",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/longest-decreasing-subsequence/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-591",
+    "sheetRow": 591,
+    "section": "Longest Increasing Subsequence",
+    "title": "Longest Decreasing subsequence with dp[i] = LDS starting with nums[i]",
+    "links": [
+      "https://www.geeksforgeeks.org/dsa/longest-decreasing-subsequence/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-592",
+    "sheetRow": 592,
+    "section": "Longest Increasing Subsequence",
+    "title": "Longest Bitonic subsequence",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-593",
+    "sheetRow": 593,
+    "section": "Longest Increasing Subsequence",
+    "title": "Maximum sum increasing subsequence",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-594",
+    "sheetRow": 594,
+    "section": "Longest Increasing Subsequence",
+    "title": "Maximum sum bitonic subsequence",
+    "links": [],
+    "resourceLabel": "Maximum Sum Bitonic Subsequence | Practice | GeeksforGeeks",
+    "searchUrl": "https://www.google.com/search?q=Maximum+sum+bitonic+subsequence+GeeksforGeeks",
+    "note": ""
+  },
+  {
+    "id": "algoforge-595",
+    "sheetRow": 595,
+    "section": "Longest Increasing Subsequence",
+    "title": "Minimum deletion to make array sorted",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/minimum-number-of-deletions-to-make-a-sorted-sequence3248/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-596",
+    "sheetRow": 596,
+    "section": "Longest Increasing Subsequence",
+    "title": "Minimum number of removal to make bitonic array",
+    "links": [],
+    "resourceLabel": "Minimum Number of Removals to Make Mountain Array - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Minimum+number+of+removal+to+make+bitonic+array+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-597",
+    "sheetRow": 597,
+    "section": "Longest Increasing Subsequence",
+    "title": "Number of LIS",
+    "links": [
+      "https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-598",
+    "sheetRow": 598,
+    "section": "Longest Increasing Subsequence",
+    "title": "Longest Arithmetic subsequence",
+    "links": [
+      "https://leetcode.com/problems/longest-arithmetic-subsequence/description"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-599",
+    "sheetRow": 599,
+    "section": "Longest Increasing Subsequence",
+    "title": "Longest increasing subsequence in NLogN",
+    "links": [
+      "https://leetcode.com/problems/longest-increasing-subsequence/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-600",
+    "sheetRow": 600,
+    "section": "Longest Increasing Subsequence",
+    "title": "Russian doll envelopes",
+    "links": [
+      "https://leetcode.com/problems/russian-doll-envelopes/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-601",
+    "sheetRow": 601,
+    "section": "Longest Increasing Subsequence",
+    "title": "Maximum height buy stacking cuboids",
+    "links": [
+      "https://leetcode.com/problems/maximum-height-by-stacking-cuboids/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-602",
+    "sheetRow": 602,
+    "section": "Longest Increasing Subsequence",
+    "title": "Maximum length of pair chain",
+    "links": [],
+    "resourceLabel": "Maximum Length of Pair Chain - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Maximum+length+of+pair+chain+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-603",
+    "sheetRow": 603,
+    "section": "Longest Increasing Subsequence",
+    "title": "Maximum profit in job scheduling",
+    "links": [],
+    "resourceLabel": "Maximum Profit in Job Scheduling - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Maximum+profit+in+job+scheduling+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-606",
+    "sheetRow": 606,
+    "section": "Cut-type DP",
+    "title": "Matrix chain multiplication",
+    "links": [],
+    "resourceLabel": "Matrix Chain Multiplication | Practice | GeeksforGeeks",
+    "searchUrl": "https://www.google.com/search?q=Matrix+chain+multiplication+GeeksforGeeks",
+    "note": ""
+  },
+  {
+    "id": "algoforge-607",
+    "sheetRow": 607,
+    "section": "Cut-type DP",
+    "title": "Brackets in MCM",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/brackets-in-matrix-chain-multiplication1024/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-608",
+    "sheetRow": 608,
+    "section": "Cut-type DP",
+    "title": "Burst Balloons",
+    "links": [
+      "https://leetcode.com/problems/burst-balloons/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-609",
+    "sheetRow": 609,
+    "section": "Cut-type DP",
+    "title": "Minimum score triangulation",
+    "links": [
+      "https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-610",
+    "sheetRow": 610,
+    "section": "Cut-type DP",
+    "title": "Minimum cost to cut a stick",
+    "links": [
+      "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-611",
+    "sheetRow": 611,
+    "section": "Cut-type DP",
+    "title": "Pallindrome Partitioning",
+    "links": [
+      "https://leetcode.com/problems/palindrome-partitioning-ii/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-612",
+    "sheetRow": 612,
+    "section": "Cut-type DP",
+    "title": "Pallindrome Partitioning in 3 parts(Optional if you have time)",
+    "links": [
+      "https://leetcode.com/problems/palindrome-partitioning-iv"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-613",
+    "sheetRow": 613,
+    "section": "Cut-type DP",
+    "title": "Partition Array for maximum sum",
+    "links": [
+      "https://leetcode.com/problems/partition-array-for-maximum-sum/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-614",
+    "sheetRow": 614,
+    "section": "Cut-type DP",
+    "title": "Optimal BST",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/optimal-binary-search-tree2214/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-617",
+    "sheetRow": 617,
+    "section": "Buy and Sell Stocks",
+    "title": "Buy and Sell Stocks in O(N) space",
+    "links": [
+      "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-618",
+    "sheetRow": 618,
+    "section": "Buy and Sell Stocks",
+    "title": "Buy and Sell Stocks in O(1) space",
+    "links": [
+      "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-619",
+    "sheetRow": 619,
+    "section": "Buy and Sell Stocks",
+    "title": "Buy and Sell Stocks 2 in O(N) space",
+    "links": [
+      "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-620",
+    "sheetRow": 620,
+    "section": "Buy and Sell Stocks",
+    "title": "Buy and Sell Stocks 2 in O(1) space",
+    "links": [
+      "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-621",
+    "sheetRow": 621,
+    "section": "Buy and Sell Stocks",
+    "title": "Buy and Sell Stocks with Transaction fees",
+    "links": [
+      "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-622",
+    "sheetRow": 622,
+    "section": "Buy and Sell Stocks",
+    "title": "Buy and Sell Stocks with Cooldown",
+    "links": [
+      "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-623",
+    "sheetRow": 623,
+    "section": "Buy and Sell Stocks",
+    "title": "Buy and Sell Stocks 3 in O(N*2) space",
+    "links": [
+      "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-624",
+    "sheetRow": 624,
+    "section": "Buy and Sell Stocks",
+    "title": "Buy and Sell Stocks 3 in O(1) space",
+    "links": [
+      "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-625",
+    "sheetRow": 625,
+    "section": "Buy and Sell Stocks",
+    "title": "Buy and Sell Stocks 4",
+    "links": [
+      "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-628",
+    "sheetRow": 628,
+    "section": "Miscellaneous DP",
+    "title": "House robber",
+    "links": [
+      "https://leetcode.com/problems/house-robber"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-629",
+    "sheetRow": 629,
+    "section": "Miscellaneous DP",
+    "title": "House robber 2",
+    "links": [
+      "https://leetcode.com/problems/house-robber-ii/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-630",
+    "sheetRow": 630,
+    "section": "Miscellaneous DP",
+    "title": "Count square submatrices",
+    "links": [
+      "https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-631",
+    "sheetRow": 631,
+    "section": "Miscellaneous DP",
+    "title": "Maximum area of square submatrice with all ones",
+    "links": [
+      "https://leetcode.com/problems/maximal-square/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-632",
+    "sheetRow": 632,
+    "section": "Miscellaneous DP",
+    "title": "Count submatrices with all Ones",
+    "links": [
+      "https://leetcode.com/problems/count-submatrices-with-all-ones"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-633",
+    "sheetRow": 633,
+    "section": "Miscellaneous DP",
+    "title": "Cherry Pickup 2",
+    "links": [
+      "https://leetcode.com/problems/cherry-pickup-ii/description"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-634",
+    "sheetRow": 634,
+    "section": "Miscellaneous DP",
+    "title": "Cherry Pickup 2 in n*m*m space",
+    "links": [
+      "https://leetcode.com/problems/cherry-pickup-ii/description"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-635",
+    "sheetRow": 635,
+    "section": "Miscellaneous DP",
+    "title": "Cherry Pickup 2 in 2*m*m space",
+    "links": [
+      "https://leetcode.com/problems/cherry-pickup-ii/description"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-636",
+    "sheetRow": 636,
+    "section": "Miscellaneous DP",
+    "title": "Cherry Pickup",
+    "links": [
+      "https://leetcode.com/problems/cherry-pickup"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-637",
+    "sheetRow": 637,
+    "section": "Miscellaneous DP",
+    "title": "Stone game",
+    "links": [
+      "https://leetcode.com/problems/stone-game/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-638",
+    "sheetRow": 638,
+    "section": "Miscellaneous DP",
+    "title": "Stone game 4",
+    "links": [
+      "https://leetcode.com/problems/stone-game-iv/description"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-639",
+    "sheetRow": 639,
+    "section": "Miscellaneous DP",
+    "title": "Ones and Zeroes",
+    "links": [
+      "https://leetcode.com/problems/ones-and-zeroes/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-640",
+    "sheetRow": 640,
+    "section": "Miscellaneous DP",
+    "title": "Paint N houses",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/distinct-coloring--170645/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-643",
+    "sheetRow": 643,
+    "section": "Arrays and Strings",
+    "title": "Segregate positive and negative number without maintaining order",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-644",
+    "sheetRow": 644,
+    "section": "Arrays and Strings",
+    "title": "Segregate 0s and 1s",
+    "links": [],
+    "resourceLabel": "Segregate 0s and 1s | Practice | GeeksforGeeks",
+    "searchUrl": "https://www.google.com/search?q=Segregate+0s+and+1s+GeeksforGeeks",
+    "note": ""
+  },
+  {
+    "id": "algoforge-645",
+    "sheetRow": 645,
+    "section": "Arrays and Strings",
+    "title": "Segregate 0s , 1s and 2s (Sort colors)",
+    "links": [],
+    "resourceLabel": "Sort Colors - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Segregate+0s+%2C+1s+and+2s+%28Sort+colors%29+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-648",
+    "sheetRow": 648,
+    "section": "Sliding Window",
+    "title": "Longest substring without repeating characters",
+    "links": [],
+    "resourceLabel": "Longest Substring Without Repeating Characters - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Longest+substring+without+repeating+characters+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-649",
+    "sheetRow": 649,
+    "section": "Sliding Window",
+    "title": "Longest substring with atmost 2 distinct characters",
+    "links": [],
+    "resourceLabel": "Longest Substring with At Most Two Distinct Characters - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Longest+substring+with+atmost+2+distinct+characters+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-650",
+    "sheetRow": 650,
+    "section": "Sliding Window",
+    "title": "Longest Substring with exact K distinct",
+    "links": [],
+    "resourceLabel": "Longest Substring with K Uniques | Practice | GeeksforGeeks",
+    "searchUrl": "https://www.google.com/search?q=Longest+Substring+with+exact+K+distinct+GeeksforGeeks",
+    "note": ""
+  },
+  {
+    "id": "algoforge-651",
+    "sheetRow": 651,
+    "section": "Sliding Window",
+    "title": "Maximum number of vowels in a substring of K length",
+    "links": [],
+    "resourceLabel": "Maximum Number of Vowels in a Substring of Given Length - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Maximum+number+of+vowels+in+a+substring+of+K+length+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-652",
+    "sheetRow": 652,
+    "section": "Sliding Window",
+    "title": "Sliding Window maximum (Already covered twice in Stack and then Queue, use PQ now)",
+    "links": [],
+    "resourceLabel": "Sliding Window Maximum - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Sliding+Window+maximum+%28Already+covered+twice+in+Stack+and+then+Queue%2C+use+PQ+now%29+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-653",
+    "sheetRow": 653,
+    "section": "Sliding Window",
+    "title": "Fruit into basket",
+    "links": [],
+    "resourceLabel": "Fruit Into Baskets - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Fruit+into+basket+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-660",
+    "sheetRow": 660,
+    "section": "Sliding Window",
+    "title": "Count of subarrays with XOR K",
+    "links": [],
+    "resourceLabel": "Count Subarrays with given XOR | Practice | GeeksforGeeks",
+    "searchUrl": "https://www.google.com/search?q=Count+of+subarrays+with+XOR+K+GeeksforGeeks",
+    "note": ""
+  },
+  {
+    "id": "algoforge-663",
+    "sheetRow": 663,
+    "section": "Sliding Window",
+    "title": "Longest consecutive subsequence",
+    "links": [],
+    "resourceLabel": "Longest Consecutive Sequence - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Longest+consecutive+subsequence+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-666",
+    "sheetRow": 666,
+    "section": "Searching and Sorting",
+    "title": "Binary Search",
+    "links": [],
+    "resourceLabel": "Binary Search - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Binary+Search+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-667",
+    "sheetRow": 667,
+    "section": "Searching and Sorting",
+    "title": "Find Insertion position",
+    "links": [],
+    "resourceLabel": "Search Insert Position - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Find+Insertion+position+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-668",
+    "sheetRow": 668,
+    "section": "Searching and Sorting",
+    "title": "First and last Index of elements in sorted array",
+    "links": [],
+    "resourceLabel": "Find First and Last Position of Element in Sorted Array - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=First+and+last+Index+of+elements+in+sorted+array+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-669",
+    "sheetRow": 669,
+    "section": "Searching and Sorting",
+    "title": "Find K closest elements to target",
+    "links": [],
+    "resourceLabel": "Find K Closest Elements - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Find+K+closest+elements+to+target+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-670",
+    "sheetRow": 670,
+    "section": "Searching and Sorting",
+    "title": "Kth Missing positive number",
+    "links": [],
+    "resourceLabel": "Kth Missing Positive Number - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Kth+Missing+positive+number+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-671",
+    "sheetRow": 671,
+    "section": "Searching and Sorting",
+    "title": "Find minimum in rotated sorted array",
+    "links": [],
+    "resourceLabel": "Find Minimum in Rotated Sorted Array - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Find+minimum+in+rotated+sorted+array+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-672",
+    "sheetRow": 672,
+    "section": "Searching and Sorting",
+    "title": "Find minimum in rotated sorted array with duplicate elements",
+    "links": [],
+    "resourceLabel": "Find Minimum in Rotated Sorted Array II - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Find+minimum+in+rotated+sorted+array+with+duplicate+elements+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-673",
+    "sheetRow": 673,
+    "section": "Searching and Sorting",
+    "title": "Search in rotated sorted array",
+    "links": [],
+    "resourceLabel": "Search in Rotated Sorted Array - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Search+in+rotated+sorted+array+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-674",
+    "sheetRow": 674,
+    "section": "Searching and Sorting",
+    "title": "Search in rotated sorted array with duplicate elements",
+    "links": [],
+    "resourceLabel": "Search in Rotated Sorted Array II - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Search+in+rotated+sorted+array+with+duplicate+elements+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-675",
+    "sheetRow": 675,
+    "section": "Searching and Sorting",
+    "title": "Median of two Sorted Arrays",
+    "links": [],
+    "resourceLabel": "Median of Two Sorted Arrays - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Median+of+two+Sorted+Arrays+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-677",
+    "sheetRow": 677,
+    "section": "Searching and Sorting",
+    "title": "Aggressive cows",
+    "links": [],
+    "resourceLabel": "Aggressive Cows | Practice | GeeksforGeeks",
+    "searchUrl": "https://www.google.com/search?q=Aggressive+cows+GeeksforGeeks",
+    "note": ""
+  },
+  {
+    "id": "algoforge-678",
+    "sheetRow": 678,
+    "section": "Searching and Sorting",
+    "title": "Koko Eating Bananas",
+    "links": [],
+    "resourceLabel": "Koko Eating Bananas - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Koko+Eating+Bananas+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-679",
+    "sheetRow": 679,
+    "section": "Searching and Sorting",
+    "title": "Maximum candies allocated to K children",
+    "links": [],
+    "resourceLabel": "Maximum Candies Allocated to K Children - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Maximum+candies+allocated+to+K+children+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-680",
+    "sheetRow": 680,
+    "section": "Searching and Sorting",
+    "title": "Minimum number of days to make m bouquets",
+    "links": [],
+    "resourceLabel": "Minimum Number of Days to Make m Bouquets - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Minimum+number+of+days+to+make+m+bouquets+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-681",
+    "sheetRow": 681,
+    "section": "Searching and Sorting",
+    "title": "Capacity to ship packages with D days",
+    "links": [],
+    "resourceLabel": "Capacity to ship packages with D days",
+    "searchUrl": "https://www.google.com/search?q=Capacity+to+ship+packages+with+D+days",
+    "note": ""
+  },
+  {
+    "id": "algoforge-682",
+    "sheetRow": 682,
+    "section": "Searching and Sorting",
+    "title": "Minimum time to repair cars",
+    "links": [],
+    "resourceLabel": "Minimum Time to Repair Cars - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Minimum+time+to+repair+cars+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-683",
+    "sheetRow": 683,
+    "section": "Searching and Sorting",
+    "title": "Allocate minimum number of pages",
+    "links": [],
+    "resourceLabel": "Allocate Minimum Pages | Practice | GeeksforGeeks",
+    "searchUrl": "https://www.google.com/search?q=Allocate+minimum+number+of+pages+GeeksforGeeks",
+    "note": ""
+  },
+  {
+    "id": "algoforge-684",
+    "sheetRow": 684,
+    "section": "Searching and Sorting",
+    "title": "Minimize Max Distance To Gas Station",
+    "links": [
+      "https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-685",
+    "sheetRow": 685,
+    "section": "Searching and Sorting",
+    "title": "Split array largest sum",
+    "links": [
+      "https://leetcode.com/problems/split-array-largest-sum/description/"
+    ],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-688",
+    "sheetRow": 688,
+    "section": "Sorting",
+    "title": "Bubble sort Algorithm",
+    "links": [],
+    "resourceLabel": "Bubble Sort Algorithm - GeeksforGeeks",
+    "searchUrl": "https://www.google.com/search?q=Bubble+sort+Algorithm+GeeksforGeeks",
+    "note": ""
+  },
+  {
+    "id": "algoforge-689",
+    "sheetRow": 689,
+    "section": "Sorting",
+    "title": "Insertion sort Algorithm",
+    "links": [],
+    "resourceLabel": "Insertion Sort Algorithm - GeeksforGeeks",
+    "searchUrl": "https://www.google.com/search?q=Insertion+sort+Algorithm+GeeksforGeeks",
+    "note": ""
+  },
+  {
+    "id": "algoforge-690",
+    "sheetRow": 690,
+    "section": "Sorting",
+    "title": "Merge two sorted arrays",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-691",
+    "sheetRow": 691,
+    "section": "Sorting",
+    "title": "Merge sort",
+    "links": [],
+    "resourceLabel": "Merge Sort | Practice | GeeksforGeeks",
+    "searchUrl": "https://www.google.com/search?q=Merge+sort+GeeksforGeeks",
+    "note": ""
+  },
+  {
+    "id": "algoforge-692",
+    "sheetRow": 692,
+    "section": "Sorting",
+    "title": "Inversion count",
+    "links": [],
+    "resourceLabel": "Count Inversions | Practice | GeeksforGeeks",
+    "searchUrl": "https://www.google.com/search?q=Inversion+count+GeeksforGeeks",
+    "note": ""
+  },
+  {
+    "id": "algoforge-693",
+    "sheetRow": 693,
+    "section": "Sorting",
+    "title": "Partition array according to pivot",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  },
+  {
+    "id": "algoforge-694",
+    "sheetRow": 694,
+    "section": "Sorting",
+    "title": "Quick Sort",
+    "links": [],
+    "resourceLabel": "Quick Sort | Practice | GeeksforGeeks",
+    "searchUrl": "https://www.google.com/search?q=Quick+Sort+GeeksforGeeks",
+    "note": ""
+  },
+  {
+    "id": "algoforge-697",
+    "sheetRow": 697,
+    "section": "Miscellaneous Problems",
+    "title": "Two Sum",
+    "links": [],
+    "resourceLabel": "Two Sum - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Two+Sum+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-698",
+    "sheetRow": 698,
+    "section": "Miscellaneous Problems",
+    "title": "Two Sum 2 in O(1) Space",
+    "links": [],
+    "resourceLabel": "Two Sum II - Input Array Is Sorted - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Two+Sum+2+in+O%281%29+Space+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-699",
+    "sheetRow": 699,
+    "section": "Miscellaneous Problems",
+    "title": "All pairs for Two Sum",
+    "links": [],
+    "resourceLabel": "All distinct pairs with given sum | Practice | GeeksforGeeks",
+    "searchUrl": "https://www.google.com/search?q=All+pairs+for+Two+Sum+GeeksforGeeks",
+    "note": ""
+  },
+  {
+    "id": "algoforge-700",
+    "sheetRow": 700,
+    "section": "Miscellaneous Problems",
+    "title": "3 Sum",
+    "links": [],
+    "resourceLabel": "3Sum - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=3+Sum+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-701",
+    "sheetRow": 701,
+    "section": "Miscellaneous Problems",
+    "title": "Four sum",
+    "links": [],
+    "resourceLabel": "4Sum - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Four+sum+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-702",
+    "sheetRow": 702,
+    "section": "Miscellaneous Problems",
+    "title": "Ksum (k= 5 sum, 6 sum ...)",
+    "links": [],
+    "resourceLabel": "4Sum - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Ksum+%28k%3D+5+sum%2C+6+sum+...%29+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-703",
+    "sheetRow": 703,
+    "section": "Miscellaneous Problems",
+    "title": "Count pairs with given sum",
+    "links": [],
+    "resourceLabel": "Count pairs with given sum | Practice | GeeksforGeeks",
+    "searchUrl": "https://www.google.com/search?q=Count+pairs+with+given+sum+GeeksforGeeks",
+    "note": ""
+  },
+  {
+    "id": "algoforge-704",
+    "sheetRow": 704,
+    "section": "Miscellaneous Problems",
+    "title": "Count quadruplets with given sum",
+    "links": [],
+    "resourceLabel": "4Sum II - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Count+quadruplets+with+given+sum+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-706",
+    "sheetRow": 706,
+    "section": "Miscellaneous Problems",
+    "title": "Majority Element in O(N) time and O(N) space",
+    "links": [],
+    "resourceLabel": "Majority Element - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Majority+Element+in+O%28N%29+time+and+O%28N%29+space+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-707",
+    "sheetRow": 707,
+    "section": "Miscellaneous Problems",
+    "title": "Majority Element in O(N) time and O(1) space",
+    "links": [],
+    "resourceLabel": "Majority Element - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Majority+Element+in+O%28N%29+time+and+O%281%29+space+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-708",
+    "sheetRow": 708,
+    "section": "Miscellaneous Problems",
+    "title": "Majority Element 2",
+    "links": [],
+    "resourceLabel": "Majority Element II - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Majority+Element+2+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-710",
+    "sheetRow": 710,
+    "section": "Miscellaneous Problems",
+    "title": "Next permutation",
+    "links": [],
+    "resourceLabel": "Next Permutation - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Next+permutation+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-711",
+    "sheetRow": 711,
+    "section": "Miscellaneous Problems",
+    "title": "Merge intervals without using Stack",
+    "links": [],
+    "resourceLabel": "Merge Intervals - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Merge+intervals+without+using+Stack+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-712",
+    "sheetRow": 712,
+    "section": "Miscellaneous Problems",
+    "title": "Missing and Repeating Number in O(1) Space and O(N) time",
+    "links": [],
+    "resourceLabel": "Missing And Repeating | Practice | GeeksforGeeks",
+    "searchUrl": "https://www.google.com/search?q=Missing+and+Repeating+Number+in+O%281%29+Space+and+O%28N%29+time+GeeksforGeeks",
+    "note": ""
+  },
+  {
+    "id": "algoforge-713",
+    "sheetRow": 713,
+    "section": "Miscellaneous Problems",
+    "title": "Maximum product subarray",
+    "links": [],
+    "resourceLabel": "Maximum Product Subarray - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Maximum+product+subarray+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-714",
+    "sheetRow": 714,
+    "section": "Miscellaneous Problems",
+    "title": "Reverse words in a string",
+    "links": [],
+    "resourceLabel": "Reverse Words in a String - LeetCode",
+    "searchUrl": "https://www.google.com/search?q=Reverse+words+in+a+string+LeetCode",
+    "note": ""
+  },
+  {
+    "id": "algoforge-715",
+    "sheetRow": 715,
+    "section": "Miscellaneous Problems",
+    "title": "Gas station",
+    "links": [],
+    "resourceLabel": "",
+    "searchUrl": "",
+    "note": ""
+  }
+]
